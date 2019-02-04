@@ -1,0 +1,135 @@
+[[module CSS]]
+.raisa {
+    border: solid 1px #999;
+    background: #f2f2c2;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.yellow {
+  background-color: #f2f2c2;
+  margin: 1em 40px;
+  padding: 0 1em;
+  color: rgba(0, 0, 0, 0.8);
+  border: 1px dashed #c8b258;
+}
+
+.left-right {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.interview {
+  display: inline-block;
+  border-radius: 10px;
+  border: dashed 1px #444;
+  background: #f5f5f5;
+  float: top;
+  width: 96.5%;
+  padding: 10px;
+}
+[[/module]]
+
+[[div class="raisa"]]
+[[=]]
+++++ NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY ADMINISTRATION
+
+You have opted to view a range of revisions for this file. For more information on this revision or the ranged history feature, contact your RAISA liaison.
+
+Changes from the previous revision have been highlighted.
+[[/=]]
+[[/div]]
+
+**Item #:** SCP-4447
+
+**Object Class:** Keter
+
+**Special Containment Procedures:** ##blue|The Department of Analytics is investigating SCP-4447's prior project assignments, transfers, associates, family, communications and banking records. Any personnel with known contact with SCP-4447 are to be interviewed.## Foundation facilities in East Asia have been alerted and are working ##blue|to relocate PoI-4447-1 and PoI-4447-2 to their countries of origin.## Undercover agents assigned into Marshall, Carter, and Dark Ltd. have been informed of SCP-4447, and are to continue to monitor the group and seek information on SCP-4447's whereabouts.
+
+**Description:** ##blue|SCP-4447 is Sasha Brown, former project head for SCP-4447.## They possess an anomalous trait that enables instant teleportation between any two people on Earth. When the anomaly is activated, the individuals, including their clothing, attached equipment, and jewelry, immediately switch positions.
+
+##blue|When SCP-4447 noticed their anomalous property, they contacted group of interest Marshall, Carter, and Dark Ltd. to market it as a transport service and receive logistical support. The group's technical agents created a hidden service with intentional security vulnerabilities to mislead Foundation researchers. When said information was discovered, a raid on an unrelated civilian (PoI-4447-1) was ordered by SCP-4447.  In their capacity as project lead, they were able to view the raid live, and swapped the location of the target with another civilian (PoI-4447-2) before PoI-4447-1 could be detained.##
+
+##blue|Anomalous transport events are believed to have regularly occurred prior to the discovery of SCP-4447's deceptive project management. Estimates suggest SCP-4447 has earned approximately 2,600,000 USD from their activities.##
+
+**Discovery:** Agents tracking GoI "Marshall, Carter, and Dark Ltd." reported rumors of a new instant-travel service. After some investigation, the URL "{{████████████████.onion}}" was discovered, and Foundation technical staff began analyzing the website. ##blue|A later raid on a Marshall, Carter, and Dark warehouse resulted in the recovery of memoranda and credentials which were utilized to obtain some internal documents on SCP-4447 (see Addendum 4447-2).##
+
+**Experiment Log:** ##red|No changes detected. Section collapsed.##
+
+**Addendum 4447-1:** ##blue|Excerpt from interview with Jacob Taylor##
+
+[[div class="interview"]]
+**Interviewed:** Researcher Jacob Taylor
+
+**Interviewer:** Analytics Researcher Alexander Yugov
+
+----
+
+**<Begin Excerpt>**
+
+**Yugov:** Did Brown exhibit any unusual behavior leading up to this period?
+
+**Taylor:** I mean, she was a bit more anxious than normal, but I assumed it was due to her upcoming talk at the [Foundation Technical] Conference.
+
+**Yugov:** How would you characterize her as an engineer?
+
+**Taylor:** Very passionate. In college she was part of the Order of the Engineer, was always working on weird projects with her friends. I think she was originally contacted by the Foundation because she accidentally reinvented electronic hyperconveyance.
+
+**Yugov:** Any peculiarities about her? Anything that you could immediately identify as being "Sasha"?
+
+**Taylor:** Yeah for sure. Usually seemed to be in a rush, always wore the same basic outfit. Like, I can't tell if she reused clothes or just had a hundred identical lab coats.
+
+**Yugov:** I've heard your colleagues say she always had her own "style". Can you clarify?
+
+**Taylor:** Well, I guess yeah. She was a very ambitious person, always wanted to take on big projects. Though now that I think of it, she did complain a bit about the pay structure. Yeah, she felt like she wasn't recognized enough.
+
+**Yugov:** She's received several awards of distinction and has been published many times in Foundation journals.
+
+**Taylor:** Sure, but I guess... Sasha just always wanted more.
+
+**<End Excerpt>**
+[[/div]]
+
+**Addendum 4447-2:** ##blue|Recovered communications##
+
+The following text messages between SCP-4447 and an unknown MC&D agent were found on various recovered cell phones.
+
+> **From:** SCP-4447
+> **To:** MC&D Agent
+>
+> I'm not sure that's going to work. The foundation will catch on, we need a distraction, bait we can throw them so they wont pursue further. Surely you guys have disposables, no?
+
+> **From:** SCP-4447
+> **To:** MC&D Agent
+>
+> Heads up, I hear they're moving agents around looking for the red herring's whereabouts
+
+> **From:** MC&D Agent
+> **To:** SCP-4447
+>
+> Confirmed, we've found a mole. Going to feed SCP false information about red herring's background.
+
+> **From:** MC&D Agent
+> **To:** SCP-4447
+>
+> There were issues transferring to the Cyprus account, we're going to do some reshuffling. New bank account info will be sent within the week.
+
+> **From:** SCP-4447
+> **To:** MC&D Agent
+>
+> Fuck, the site director authorized a bunch of raids I wasnt aware of. I think they might know something
+
+> **From:** MC&D Agent
+> **To:** SCP-4447
+>
+> Recovery team is en route, switch with Person #087 immediately.
+
+[[div class="yellow left-right"]]
+[[div]]
+[http://scp-wiki.net/scp-4447/offset/1 ⟵ Previous revision]
+[[/div]]
+[[div]]
+[http://scp-wiki.net/scp-4447/offset/3 Final revision ⟶]
+[[/div]]
+[[/div]]
