@@ -1,6 +1,6 @@
-[[module CSS]]
-@import url(http://scp-sandbox-3.wdfiles.com/local--code/component%3Aspicy-crust-pizzeria-theme/1);
+[[include component:spicy-crust-pizzeria-theme]]
 
+[[module CSS]]
 .indent {
   margin-left: 3em;
 }
@@ -60,7 +60,7 @@ Tags: {{%%tags%%}}
 [[/module]]
 
 [[module ListPages name="scp-3597" limit="1"]]
-* [[[*scp-3597|SCP-3597 - Maladroit]]] (+%%rating%%, %%comments%% comments)
+* [[[*scp-3597|SCP-3597 - Maladroit]]] ([https://redd.it/anbeco declassification]) (+%%rating%%, %%comments%% comments)
 
 > **Description:** [DATA EXPUNGED]
 
@@ -74,6 +74,17 @@ Tags: {{%%tags%%}}
 * [[[*scp-4447|SCP-4447 - Sasha's Super Shuttle Service!]]] (+%%rating%%, %%comments%% comments)
 
 > When the anomaly is activated, the individuals, including their clothing, attached equipment, and jewelry, immediately switch positions.
+
+[[div class="indent"]]
+Written: {{%%created_at%%}}
+Tags: {{%%tags%%}}
+[[/div]]
+[[/module]]
+
+[[module ListPages name="scp-1294-j" limit="1"]]
+* [[[*scp-1294-j|SCP-1294-J - Watering-down Can]]] (+%%rating%%, %%comments%% comments)
+
+> One D-class (currently D-41562) is to prepare and consume Earl Grey tea from SCP-1294-J once daily under pain of termination and/or revocation of shower privileges.
 
 [[div class="indent"]]
 Written: {{%%created_at%%}}
