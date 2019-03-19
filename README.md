@@ -6,5 +6,10 @@ See also my list of [favorite SCP articles](https://ammonsmith.me/favorite-scp.h
 ## SCPs
 * [SCP-4339](http://www.scp-wiki.net/scp-4339) - The Attribute Pen
 * [SCP-3597](http://www.scp-wiki.net/scp-3597) - Maladroit
+* [SCP-4447](http://www.scp-wiki.net/scp-4447) - Sasha's Super Shuttle Service!
+* [SCP-1294-J](http://www.scp-wiki.net/scp-1294-J) - Watering-down Can
+
+## Other
+* [aismallard](http://www.scp-wiki.net/aismallard) - Author Page
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)
