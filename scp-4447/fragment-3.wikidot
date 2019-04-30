@@ -28,6 +28,7 @@
   float: top;
   width: 96.5%;
   padding: 10px;
+  box-shadow: 0 .063em .125em rgba(0,0,0,0.1);
 }
 [[/module]]
 
@@ -41,9 +42,16 @@ Changes from the previous revision have been highlighted.
 [[/=]]
 [[/div]]
 
-**Item #:** SCP-4447
+----
 
-**Object Class:** Keter
+[[include component:classified-bar-woed
+    lv=4 |
+    item=4447 |
+    oc=Keter |
+    lang=EN
+]]
+
+----
 
 **Special Containment Procedures:** ##blue|The Department of Analytics is investigating SCP-4447's prior project assignments, transfers, associates, family, communications and banking records. Any personnel with known contact with SCP-4447 are to be interviewed.## Foundation facilities in East Asia have been alerted and are working ##blue|to relocate PoI-4447-1 and PoI-4447-2 to their countries of origin.## Undercover agents assigned into Marshall, Carter, and Dark Ltd. have been informed of SCP-4447, and are to continue to monitor the group and seek information on SCP-4447's whereabouts.
 

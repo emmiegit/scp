@@ -15,14 +15,21 @@ This is the current version of this file. Click [[[scp-4447|here]]] to return to
 [[/=]]
 [[/div]]
 
+----
+
+[[include component:classified-bar-woed
+    lv=1 |
+    item=4447 |
+    oc=Safe |
+    lang=EN
+]]
+
+----
+
 [[include component:image-block
     name=ring.jpeg |
     caption=SCP-4447
 ]]
-
-**Item #:** SCP-4447
-
-**Object Class:** Safe
 
 **Special Containment Procedures:** SCP-4447 is to be kept in a lead-lined anomalous item vault at Storage Site-77. Testing must be approved by two Level-4 personnel. All subjects must wear GPS-tracking anklets.
 

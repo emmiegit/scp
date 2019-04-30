@@ -31,9 +31,16 @@ Changes from the previous revision have been highlighted.
 [[/=]]
 [[/div]]
 
-**Item #:** SCP-4447
+----
 
-**Object Class:** ##blue|Keter##
+[[include component:classified-bar-woed
+    lv=3 |
+    item=4447 |
+    oc=Keter |
+    lang=EN
+]]
+
+----
 
 **Special Containment Procedures:** ##blue|Research into SCP-4447's personal history, family and additional anomalous properties is underway to devise means of containment. Foundation facilities in East Asia have been alerted and are working through government channels to locate SCP-4447.## Undercover agents assigned into Marshall, Carter, and Dark Ltd. have been informed of SCP-4447, and are to continue to monitor the group ##blue|and seek information on SCP-4447's whereabouts##.
 
