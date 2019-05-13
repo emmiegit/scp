@@ -48,7 +48,7 @@
 **Involved projects:**
 
 [[module ListPages name="scp-4339" limit="1"]]
-* [[[*scp-4339|SCP-4339 - The Attribute Pen]]] (+%%rating%%, %%comments%% comments)
+* [[[*scp-4339|SCP-4339 - The Attribute Pen]]] [##green|+%%rating%%##] [Comments: %%comments%%]
 
 > D-91386 was told to say "my name is D-88111".
 > D-88111's identification was changed.
@@ -62,7 +62,7 @@ Tags: {{%%tags%%}}
 [[/module]]
 
 [[module ListPages name="scp-3597" limit="1"]]
-* [[[*scp-3597|SCP-3597 - Maladroit]]] ([https://redd.it/anbeco declassification]) (+%%rating%%, %%comments%% comments)
+* [[[*scp-3597|SCP-3597 - Maladroit]]] ([https://redd.it/anbeco declassification]) [##green|+%%rating%%##] [Comments: %%comments%%]
 
 > **Description:** [DATA EXPUNGED]
 
@@ -75,7 +75,7 @@ Tags: {{%%tags%%}}
 [[/module]]
 
 [[module ListPages name="scp-4447" limit="1"]]
-* [[[*scp-4447|SCP-4447 - Sasha's Super Shuttle Service!]]] (+%%rating%%, %%comments%% comments)
+* [[[*scp-4447|SCP-4447 - Sasha's Super Shuttle Service!]]] [##green|+%%rating%%##] [Comments: %%comments%%]
 
 > When the anomaly is activated, the individuals, including their clothing, attached equipment, and jewelry, immediately switch positions.
 
@@ -88,9 +88,22 @@ Tags: {{%%tags%%}}
 [[/module]]
 
 [[module ListPages name="scp-1294-j" limit="1"]]
-* [[[*scp-1294-j|SCP-1294-J - Watering-down Can]]] (+%%rating%%, %%comments%% comments)
+* [[[*scp-1294-j|SCP-1294-J - Watering-down Can]]] [##green|+%%rating%%##] [Comments: %%comments%%]
 
 > Oak wood restraints painted cyan and reinforced with lead-telekill-iron-oxide alloy have been attached to the object to prevent spills.
+
+[[div class="indent"]]
+Written: {{%%created_at%%}}
+Last Edited: {{%%updated_at%%}} by %%updated_by%%
+Last Commented: {{%%commented_at%%}} by %%commented_by%%
+Tags: {{%%tags%%}}
+[[/div]]
+[[/module]]
+
+[[module ListPages name="scp-4322" limit="1"]]
+* [[[*scp-4322|SCP-4322 - Sleepless Dreams]]] [##green|+%%rating%%##] [Comments: %%comments%%]
+
+> SCP-4322 is a radio transceiver, anomalously modified to transmit psionic waves instead of electromagnetic radiation.
 
 [[div class="indent"]]
 Written: {{%%created_at%%}}
@@ -125,6 +138,12 @@ The [DATA EXPUNGED] description was, admittedly, a bit of a gimmick, and I know 
 **Other files:**
 * [*http://scp.avn.sh/ais:mallard In-progress reports]
 * [*http://scp.avn.sh/ais:misc Ancillary documents]
+
+**Appendix:**
+[[collapsible show="▸ Show contingency procedures" hide="▾ Close file"]]
+* Should [[*user aismallard]] be inactive for longer than six months, any inquiries regarding licensing, deletion, and other necessary issues should be directed to [[*user rounderhouse]].
+* Should [[*user aismallard]] die, be permanently incapacitated, or be inactive for greater than two full years, ownership and management of articles and other SCP Wiki material will transfer to [[*user rounderhouse]], except in the case of collaborations, where ownership goes to respective co-authors.
+[[/collapsible]]
 
 [!-- Hide footnotes --]
 [[div style="display: none;"]]
