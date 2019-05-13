@@ -8,6 +8,7 @@ See also my list of [favorite SCP articles](https://ammonsmith.me/favorite-scp.h
 * [SCP-3597](http://www.scp-wiki.net/scp-3597) - Maladroit
 * [SCP-4447](http://www.scp-wiki.net/scp-4447) - Sasha's Super Shuttle Service!
 * [SCP-1294-J](http://www.scp-wiki.net/scp-1294-J) - Watering-down Can
+* [SCP-4322](http://www.scp-wiki.net/scp-4322) - Sleepless Dreams
 
 ## Other
 * [aismallard](http://www.scp-wiki.net/aismallard) - Author Page
