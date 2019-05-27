@@ -21,7 +21,7 @@ div.scp-image-block.block-center {
 }
 [[/module]]
 
-[[include :scp.avn.sh:component:aers:info-stuff
+[[include component:info-ayers
     lang=EN |
     page=SCP-4322 |
     authorPage=http://www.scp-wiki.net/aismallard |
@@ -32,7 +32,7 @@ div.scp-image-block.block-center {
 **Thanks to:** 
 * wctaiwan 
 * [[*user KindlyTurtleClem]] 
-* [[*user woedenaz]] 
+* [[*user woedenaz]]@@ @@
 ]]
 
 [[include component:classified-bar-woed

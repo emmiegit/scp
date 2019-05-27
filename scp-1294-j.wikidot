@@ -4,7 +4,7 @@
 [[module Rate]]
 [[/>]]
 
-[[include :scp.avn.sh:component:aers:info-stuff
+[[include component:info-ayers
     lang=EN |
     page=SCP-1294-J |
     authorPage=http://www.scp-wiki.net/aismallard |
