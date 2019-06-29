@@ -2,7 +2,8 @@
 
 [[module CSS]]
 .indent {
-  margin-left: 3em;
+    margin-left: 3em;
+    hyphens: none;
 }
 [[/module]]
 
