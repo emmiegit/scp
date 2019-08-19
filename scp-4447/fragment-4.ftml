@@ -17,11 +17,13 @@ This is the current version of this file. Click [[[scp-4447|here]]] to return to
 
 ----
 
-[[include component:classified-bar-woed
-    lv=1 |
-    item=4447 |
-    oc=Safe |
-    lang=EN
+[[include :scptestwiki:component:anomaly-class-bar-source
+    item-number=4447 |
+    clearance=1 |
+    container-class=safe |
+    secondary-class=none |
+    disruption-class=vlam |
+    risk-class=caution
 ]]
 
 ----

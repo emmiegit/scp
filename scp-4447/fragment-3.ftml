@@ -44,11 +44,13 @@ Changes from the previous revision have been highlighted.
 
 ----
 
-[[include component:classified-bar-woed
-    lv=4 |
-    item=4447 |
-    oc=Keter |
-    lang=EN
+[[include :scptestwiki:component:anomaly-class-bar-source
+    item-number=4447 |
+    clearance=4 |
+    container-class=keter |
+    secondary-class=none |
+    disruption-class=keneq |
+    risk-class=caution
 ]]
 
 ----

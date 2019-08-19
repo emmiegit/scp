@@ -25,11 +25,10 @@ You have opted to view a range of revisions for this file. For more information 
 
 ----
 
-[[include component:classified-bar-woed
-    lv=3 |
-    item=4447 |
-    oc=Pending |
-    lang=EN
+[[include :scptestwiki:component:anomaly-class-bar-source
+    item-number=4447 |
+    clearance=3 |
+    container-class=pending
 ]]
 
 ----
