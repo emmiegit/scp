@@ -43,11 +43,13 @@ div.scp-image-block.block-center {
 **Thanks to:** [[*user KindlyTurtleClem]]@@ @@
 ]]
 
-[[include component:classified-bar-woed
-    lv=1 |
-    item=4838 |
-    oc=Neutralized |
-    lang=EN
+[[include component:anomaly-class-bar-source
+    item-number=4838 |
+    clearance=1 |
+    container-class=neutralized |
+    secondary-class=none |
+    disruption-class=vlam |
+    risk-class=notice
 ]]
 
 ----
