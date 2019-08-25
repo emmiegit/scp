@@ -17,7 +17,7 @@ This is the current version of this file. Click [[[scp-4447|here]]] to return to
 
 ----
 
-[[include :scptestwiki:component:anomaly-class-bar-source
+[[include component:anomaly-class-bar-source
     item-number=4447 |
     clearance=1 |
     container-class=safe |
