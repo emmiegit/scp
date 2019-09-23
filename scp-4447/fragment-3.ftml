@@ -55,19 +55,19 @@ Changes from the previous revision have been highlighted.
 
 ----
 
-**Special Containment Procedures:** ##blue|The Department of Analytics is investigating SCP-4447's prior project assignments, transfers, associates, family, communications and banking records. Any personnel with known contact with SCP-4447 are to be interviewed.## Foundation facilities in East Asia have been alerted and are working ##blue|to relocate PoI-4447-1 and PoI-4447-2 to their countries of origin.## Undercover agents assigned into Marshall, Carter, and Dark Ltd. have been informed of SCP-4447, and are to continue to monitor the group and seek information on SCP-4447's whereabouts.
+**Special Containment Procedures:** ##mediumblue|The Department of Analytics is investigating SCP-4447's prior project assignments, transfers, associates, family, communications and banking records. Any personnel with known contact with SCP-4447 are to be interviewed.## ##gray|Foundation facilities in East Asia have been alerted and are working## ##mediumblue|to relocate PoI-4447-1 and PoI-4447-2 to their countries of origin.## ##gray|Undercover agents assigned into Marshall, Carter, and Dark Ltd. have been informed of SCP-4447, and are to continue to monitor the group and seek information on SCP-4447's whereabouts.##
 
-**Description:** ##blue|SCP-4447 is Sasha Brown, former project head for SCP-4447.## They possess an anomalous trait that enables instant teleportation between any two people on Earth. When the anomaly is activated, the individuals, including their clothing, attached equipment, and jewelry, immediately switch positions.
+**Description:** ##mediumblue|SCP-4447 is Sasha Brown, former project head for SCP-4447.## ##gray|They possess an anomalous trait that enables instant teleportation between any two people on Earth. When the anomaly is activated, the individuals, including their clothing, attached equipment, and jewelry, immediately switch positions.##
 
-##blue|When SCP-4447 noticed their anomalous property, they contacted group of interest Marshall, Carter, and Dark Ltd. to market it as a transport service and receive logistical support. The group's technical agents created a hidden service with intentional security vulnerabilities to mislead Foundation researchers. When said information was discovered, a raid on an unrelated civilian (PoI-4447-1) was ordered by SCP-4447.  In their capacity as project lead, they were able to view the raid live, and swapped the location of the target with another civilian (PoI-4447-2) before PoI-4447-1 could be detained.##
+##mediumblue|When SCP-4447 noticed their anomalous property, they contacted group of interest Marshall, Carter, and Dark Ltd. to market it as a transport service and receive logistical support. The group's technical agents created a hidden service with intentional security vulnerabilities to mislead Foundation researchers. When said information was discovered, a raid on an unrelated civilian (PoI-4447-1) was ordered by SCP-4447.  In their capacity as project lead, they were able to view the raid live, and swapped the location of the target with another civilian (PoI-4447-2) before PoI-4447-1 could be detained.##
 
-##blue|Anomalous transport events are believed to have regularly occurred prior to the discovery of SCP-4447's deceptive project management. Estimates suggest SCP-4447 has earned approximately 2,600,000 USD from their activities.##
+##mediumblue|Anomalous transport events are believed to have regularly occurred prior to the discovery of SCP-4447's deceptive project management. Estimates suggest SCP-4447 has earned approximately 2,600,000 USD from their activities.##
 
-**Discovery:** Agents tracking GoI "Marshall, Carter, and Dark Ltd." reported rumors of a new instant-travel service. After some investigation, the URL "{{████████████████.onion}}" was discovered, and Foundation technical staff began analyzing the website. ##blue|A later raid on a Marshall, Carter, and Dark warehouse resulted in the recovery of memoranda and credentials which were utilized to obtain some internal documents on SCP-4447 (see Addendum 4447-2).##
+**Discovery:** ##gray|Agents tracking GoI "Marshall, Carter, and Dark Ltd." reported rumors of a new instant-travel service. After some investigation, the URL "{{████████████████.onion}}" was discovered, and Foundation technical staff began analyzing the website.## ##mediumblue|A later raid on a Marshall, Carter, and Dark warehouse resulted in the recovery of memoranda and credentials which were utilized to obtain some internal documents on SCP-4447 (see Addendum 4447-2).##
 
-**Experiment Log:** ##red|No changes detected. Section collapsed.##
+**Experiment Log:** ##darkgreen|No changes detected. Section collapsed.##
 
-##blue|**Addendum 4447-1:** Excerpt from interview with Jacob Taylor##
+##mediumblue|**Addendum 4447-1:** Excerpt from interview with Jacob Taylor##
 
 [[div class="interview"]]
 **Interviewed:** Researcher Jacob Taylor
@@ -101,7 +101,7 @@ Changes from the previous revision have been highlighted.
 **<End Excerpt>**
 [[/div]]
 
-##blue|**Addendum 4447-2:** Recovered communications##
+##mediumblue|**Addendum 4447-2:** Recovered communications##
 
 The following text messages between SCP-4447 and an unknown MC&D agent were found on various recovered cell phones.
 
