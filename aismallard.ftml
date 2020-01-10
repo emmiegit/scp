@@ -1,5 +1,5 @@
 [[include component:black-highlighter-theme-dev]]
-[[include component:raisa-theme]]
+[[include component:pride-highlighter | inc-pan-alt=--] ]]
 
 [[module CSS]]
 .indent {
