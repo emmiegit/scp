@@ -19,17 +19,6 @@
   flex-direction: row;
   justify-content: space-between;
 }
-
-.interview {
-  display: inline-block;
-  border-radius: 10px;
-  border: dashed 1px #444;
-  background: #f5f5f5;
-  float: top;
-  width: 96.5%;
-  padding: 10px;
-  box-shadow: 0 .063em .125em rgba(0,0,0,0.1);
-}
 [[/module]]
 
 [[div class="raisa"]]
@@ -69,7 +58,7 @@ Changes from the previous revision have been highlighted.
 
 ##mediumblue|**Addendum 4447-1:** Excerpt from interview with Jacob Taylor##
 
-[[div class="interview"]]
+[[div class="blockquote curved"]]
 **Interviewed:** Researcher Jacob Taylor
 
 **Interviewer:** Analytics Researcher Alexander Yugov
