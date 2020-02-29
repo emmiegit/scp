@@ -1,25 +1,9 @@
 [[include component:black-highlighter-theme-dev]]
+[[include :scptestwiki:component:wide-image-sizer]]
 
 [[>]]
 [[module Rate]]
 [[/>]]
-
-[[module CSS]]
-div.scp-image-block.block-center {
-    position: relative;
-    height: 215px;
-}
-
-.scp-image-block img {
-    height: 100%;
-    object-fit: cover;
-}
-
-#page-content > div.scp-image-block.block-center > div.scp-image-caption {
-    position: absolute;
-    bottom: 0;
-}
-[[/module]]
 
 [[include component:info-ayers
     lang=en |
@@ -32,8 +16,10 @@ div.scp-image-block.block-center {
  
 **Thanks to:** 
 * wctaiwan 
-* [[*user KindlyTurtleClem]] 
-* [[*user woedenaz]]@@ @@
+* KindlyTurtleClem 
+* [[*user woedenaz]] 
+ 
+= **Next:** [[[SCP-4838]]] - //Lover's Quarrel// 
 ]]
 
 [[include component:classified-bar-woed
@@ -45,12 +31,12 @@ div.scp-image-block.block-center {
 
 ----
 
-[[div class="scp-image-block block-center"]]
-[[image http://scp-wiki.wdfiles.com/local--files/scp-4322/scp-4322.jpeg]]
-[[div class="scp-image-caption" style="width: 100%;"]]
-SCP-4322
-[[/div]]
-[[/div]]
+[[include component:image-block
+    name=http://scp-wiki.wdfiles.com/local--files/scp-4322/scp-4322.jpeg |
+    caption=SCP-4322 |
+    align=center |
+    width=100%
+]]
 
 ----
 

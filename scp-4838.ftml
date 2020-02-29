@@ -1,29 +1,11 @@
 [[include component:black-highlighter-theme-dev]]
+[[include :scptestwiki:component:wide-image-sizer]]
 
 [[>]]
 [[module Rate]]
 [[/>]]
 
 [[module CSS]]
-div.scp-image-block.block-center {
-    position: relative;
-    height: 215px;
-}
-
-.scp-image-block img {
-    height: 100%;
-    object-fit: cover;
-}
-
-#page-content > div.scp-image-block.block-center > div.scp-image-caption {
-    position: absolute;
-    bottom: 0;
-}
-
-.collapsible-block-content > div:nth-child(1) > p {
-    margin: 2em;
-}
-
 .raisa {
     border: solid 1px #999;
     background: #f2f2c2;
@@ -40,7 +22,9 @@ div.scp-image-block.block-center {
 **SCP-4838:** Lover's Quarrel 
 **Author:** [[*user aismallard]] 
  
-**Thanks to:** [[*user KindlyTurtleClem]]@@ @@
+**Thanks to:** KindlyTurtleClem 
+ 
+= **Next:** //&//[[[SCP-4853]]]@@ @@
 ]]
 
 [[include component:anomaly-class-bar-source
@@ -54,12 +38,12 @@ div.scp-image-block.block-center {
 
 ----
 
-[[div class="scp-image-block block-center"]]
-[[image http://www.scp-wiki.net/local--files/scp-4838/houses.jpeg]]
-[[div class="scp-image-caption" style="width: 100%;"]]
-Candace Harker's house (second from left), the location of the first known SCP-4838 event.
-[[/div]]
-[[/div]]
+[[include component:image-block
+    name=http://www.scp-wiki.net/local--files/scp-4838/houses.jpeg |
+    caption=Candace Harker's house (second from left), the location of the first known SCP-4838 event. |
+    align=center |
+    width=100%
+]]
 
 ----
 
