@@ -1,5 +1,5 @@
 [[include component:black-highlighter-theme-dev]]
-[[include :scptestwiki:component:rounderformat]]
+[[include component:rso]]
 [[include :smlt:mrpines:discord-include]]
 
 [[module CSS]]
