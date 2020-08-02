@@ -1,0 +1,80 @@
+[[iftags +template]]
+[[module CSS]]
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css");
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css");
+[[/module]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[div_ style="border: 1px solid #ddd; padding: 1em;"]]
++++ Usage
+
+On any wiki:
+
+[[div class="code"]]
+@@[[include :scp-wiki:component:wide-image-sizer]]@@
+[[/div]]
+
+Then for the image:
+
+[[div class="code"]]
+
+@@[[include component:image-block@@
+@@    name=http://scp-wiki.wikidot.com/local--files/(REST OF LINK TO YOUR IMAGE) |@@
+@@    caption=(YOUR CAPTION HERE) |@@
+@@    align=center |@@
+@@    width=100%@@
+@@]]@@
+
+[[/div]]
+[[/div]]
+
++++ What this is
+
+A component to automatically scale a wide image to 215px height and an appropriate width for the current screen. This way you can ensure a consistent viewing experience across a wide range of devices while avoiding the need precisely crop the source image.
+
++++ What it looks like
+
+[[=]]
+**With component:**
+
+[[=image with-component.png]]
+
+**Without component:**
+
+[[=image without-component.png]]
+[[/=]]
+
+----
+
+The CSS was created by [[*user Woedenaz]], and this component was created by [[*user aismallard]].
+
+[[collapsible show="+ Show code" hide="- Hide code"]]
+[[code type="CSS"]]
+.scp-image-block.block-center {
+    position: relative;
+    height: 215px;
+}
+
+.scp-image-block img {
+    height: 100%;
+    object-fit: cover;
+}
+
+#page-content > div.scp-image-block.block-center > div.scp-image-caption {
+    position: absolute;
+    bottom: 0;
+}
+
+.collapsible-block-content > div:nth-child(1) > p {
+    margin: 2em;
+}
+[[/code]]
+[[/collapsible]]
+[[/iftags]]
+
+[[module CSS]]
+@import url('http://scptestwiki.wikidot.com/component:wide-image-sizer/code/1');
+[[/module]]
