@@ -78,12 +78,3 @@ The CSS was created by [[*user Woedenaz]], and this component was created by [[*
 [[module CSS]]
 @import url('http://scptestwiki.wikidot.com/component:wide-image-sizer/code/1');
 [[/module]]
-
-[[include component:license-box]]
-=====
-> **Filename:** with-component.png, without-component.png
-> **Author:** [[*user aismallard]]
-> **License:** CC-BY-SA 3.0
-> **Source Link:** Screenshot of [[[SCP-4322]]]
-=====
-[[include component:license-box-end]]
