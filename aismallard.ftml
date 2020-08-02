@@ -294,3 +294,25 @@ When the SCP/tales list get too long, add:
 [[collapsible show="▸ Access files" hide="▾ Close files"]]
 [[/collapsible]]
 --]
+
+@@@@
+@@@@
+
+[[include component:license-box]]
+=====
+> **Filename:** mallard.jpeg
+> **Author:** [https://commons.wikimedia.org/wiki/User:Bengt_Nyman Bengt Nyman]
+> **License:** CC-BY-SA 4.0
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Birds_of_Sweden_2016_52.jpg
+
+> **Filename:** art-4322-alces.jpeg
+> **Author:** [[*user Alces_alces]]
+> **License:** CC-BY-SA 3.0
+> **Source Link:** [[[Alces' Statue Garden]]]
+
+> **Filename:** Rk6SSxu.png
+> **Author:** [[*user Aethris]]
+> **License:** CC-BY-SA 3.0
+> **Source Link:** https://i.imgur.com/Rk6SSxu.png
+=====
+[[include component:license-box-end]]
