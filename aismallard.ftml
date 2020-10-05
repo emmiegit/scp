@@ -1,5 +1,5 @@
 [[include theme:black-highlighter-theme]]
-[[include component:pride-highlighter | inc-pan-alt=--] ]]
+[[include component:pride-highlighter | inc-nb-alt=--] ]]
 
 [[module CSS]]
 .indent {
@@ -28,8 +28,6 @@
 **Prior Profession:** Software Engineer
 
 **DOB:** 19██/██/██
-
-**Sex:** M
 
 **IPLS:**[[footnote]]Involuntary Personnel Loyalty Score, from A (most loyal) to F (least loyal).[[/footnote]] B
 
