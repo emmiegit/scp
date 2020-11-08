@@ -1,11 +1,18 @@
 [[include theme:black-highlighter-theme]]
-
 [[include info:start]]
 &**SCP-4853**
 **Author:** [[*user aismallard]] ([[[aismallard|Author Page]]])
 
 My first boldpost.
+
+= **Next:** [[[SCP-4781]]] - //Sour and Dill//
 [[include info:end]]
+
+[[module CSS]]
+sup {
+    font-size: 115%;
+}
+[[/module]]
 
 **Item #:** SCP-4853^^(1)^^
 
