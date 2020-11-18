@@ -1,0 +1,58 @@
+[[include theme:black-highlighter-theme]]
+
+[[module CSS]]
+.notice {
+    border: solid 1px #999;
+    background: #f2f2c2;
+    padding: 1em;
+    margin-bottom: 0.5em;
+}
+[[/module]]
+
+[[include info:start]]
+**SCP-5510:** Universal Remote
+**Author:** [[*user aismallard]] ([[[aismallard|Author Page]]])
+
+**Thanks to:**
+* wctaiwan
+* [[*user rounderhouse]]
+* [[*user The Great Hippo]]
+* [[*user Uncle Nicolini]]
+* [[*user Yossipossi]]
+* [[*user Captain Kirby]]
+[[include info:end]]
+
+[[div_ class="notice"]]
+**Welcome, Dr. Archibald.**
+You are currently editing SCP-5510. Your session will expire after **118** seconds of inactivity.
+[[/div]]
+
+[[include component:image-block
+    name=http://scp-wiki.wdfiles.com/local--files/fragment:scp-4182-1/blank.png |
+    caption={{[No file selected]}} |
+    width=100px
+]]
+
+**Item #:** SCP-5510
+
+**Object Class:** Safe (provisional)
+
+**Special Containment Procedures:** SCP-5510 is to be kept in a small-item locker. Confirmation testing is currently ongoing.
+
+**Description:** SCP-5510 is a TV remote control. The object functions as expected, with the exception of its four media navigation buttons. When one is pressed, the subjective time experienced by the anomaly changes.
+
+**Addendum 5510-1:** Testing Logs
+
+||~ Button ||~ Result ||
+|| Fast forward || SCP-5510 experiences time at half speed. ||
+|| Rewind || SCP-5510 experiences time at double speed. ||
+|| Play || No known effects. ||
+|| Pause || [[image cursor.png alt="𝖨" width="10px"]] ||
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-5509]]] | SCP-5510 | [[[SCP-5511]]] >>
+[[/=]]
+[[/div]]
