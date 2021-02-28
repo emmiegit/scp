@@ -392,17 +392,16 @@ List of names:
 ----
 [[collapsible hideLocation="both" show="▶OPEN ADDENDUM◀" hide="▷CLOSE◁"]]
 [[div class="addendum"]]
-Critical services began recovering at 2019/06/13 11:32 UTC, after which the PANOPTICON metaphysical anchoring system automatically recalibrated itself. An inspection revealed that several of the conceptual constructs were modified to carry the following message:
+Critical services began recovering at 2019/06/13 11:32 UTC, after which the PANOPTICON metaphysical anchoring system automatically recalibrated itself. An inspection discovered an unusual HTML payload in one of the anchor's logs. A screenshot has been attached below:
 
-[[div class="blockquote"]]
-The keys of knowledge belong to all. We will stop every tyrant who attempts to seize them.
-
-- L.S.
+[[div_ class="aligncenter" style="border: 1px solid #999;"]]
+[[image ;-).png]]
 [[/div]]
 
-The new probability of an outage was recalculated as 1 in 62, with indications another will occur within four months.
-[[/div]]
+The origin and meaning of this notice is unclear. Investigation is ongoing.
 [[/collapsible]]
+[[/div]]
+
 ----
 
 [[footnoteblock]]
@@ -433,37 +432,3 @@ The new probability of an outage was recalculated as 1 in 62, with indications a
 > **Source Link:** https://commons.wikimedia.org/wiki/File:North_Sea_oil_rig_(43076105605).jpg
 =====
 [[include component:license-box-end]]
-
-[[div class="hidden-collapsible"]]
-[[collapsible show="             " hide="FILE NOT FOUND"]]
-[[div class="addendum"]]
-Additionally, the following error message was discovered in the anchor's logs. Notably, the listed peer does not correspond to any known RAISA service.
-
-[[div class="blockquote"]]
-{{Timestamp: 2019/06/10 11:59 UTC}}
-{{Host: 07d26a4f-c0f7-8a9c.metabed.panopticon.scp}}
-{{Peer: 2cb9feaa-fbb3-906a.wdfiles.panopticon.scp}}
-
-{{Payload:}}
-{{1f8b 0808 41fd 0b5e 0003 6572 726f 722e}}
-{{6874 6d6c 0045 90b1 6ec3 300c 4477 7fc5}}
-{{6d5d 92c0 edd8 b149 860e 410a a340 675a}}
-{{a663 c58a 948a 525d ff7d 2965 e820 40e0}}
-{{e9ee 1df5 e198 8491 e20a ba90 f5d8 224d}}
-{{1c19 0b09 08f7 187a c737 8c9c cc64 fda5}}
-{{88b8 d385 b186 8cc8 df99 25f1 b06b 4e41}}
-{{527d 4dbd 5bab 68c8 e39a 756a 9c35 333a}}
-{{7681 0684 887d 8a6e db81 fcf0 9fb6 58e7}}
-{{2053 58a0 d8e2 e6df 3b9b 9adc bc8f 7542}}
-{{5a4a 984b 0982 0b09 612c 7e2d cf31 8628}}
-{{1b7c d9d9 0e2a dc68 45cf c87e e008 4991}}
-{{4534 e673 223f 0b46 6df0 63c5 a6c7 3656}}
-{{a077 ded4 3ab6 929e 1414 3c97 fc90 63f3}}
-{{8cb6 6deb c9c2 0553 12b2 14fb f200 ee4c}}
-{{b8d5 a99a 1518 8c25 8785 fbf2 1f57 dd42}}
-{{e1c7 ae3b 77d8 9f0f c757 1cde 5eda b6f9}}
-{{0378 becc 1579 0100 00}}
-[[/div]]
-[[/div]]
-[[/collapsible]]
-[[/div]]
