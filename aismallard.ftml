@@ -210,10 +210,25 @@ Translations: (none)
 * [[[*scp-5633|SCP-5633 - This Will Require A Great Amount of Blood]]] [##green|+%%rating%%##] [Comments: %%comments%%]
 
 [[div class="indent"]]
-Filed with: [[*user Alces_alces]] [[*user Captain Kirby]] [[*user JackalRelated]] [[*user magna2s]] [[*user Modulum]] [[*user Rounderhouse]], [[*user Sterbai]] [[*user Tufto]] [[*user Uncle Nicolini]] [[*user Woedenaz]] [[*user Yossipossi]]
+Filed with: [[*user Rex Atlas]] [[*user Captain Kirby]] [[*user JackalRelated]] [[*user magna2s]] [[*user Modulum]] [[*user Rounderhouse]], [[*user Sterbai]] [[*user Tufto]] [[*user Uncle Nicolini]] [[*user Woedenaz]] [[*user Yossipossi]]
 [[/div]]
 
 > SCP-5633 is a large humanoid body located approximately 50m underground. The inside of SCP-5633 consists of enlarged veins, and steel scaffolding. The veins contain liquid that is both red and black in coloration, and highly viscous. Pipes extracting liquid from SCP-5633's veins are located along its arms, legs and back. 
+
+[[div class="indent"]]
+Written: {{%%created_at%%}}
+Last Edited: {{%%updated_at%%}} by %%updated_by%%
+Last Commented: {{%%commented_at%%}} by %%commented_by%%
+Tags: {{%%tags%%}}
+Tag Golf: (none)
+Translations: (none)
+[[/div]]
+[[/module]]
+
+[[module ListPages name="scp-5510" limit="1"]]
+* [[[*scp-5510|SCP-5510 - Universal Remote]]] [##green|+%%rating%%##] [Comments: %%comments%%]
+
+> Your session will expire after 118 seconds of inactivity.
 
 [[div class="indent"]]
 Written: {{%%created_at%%}}
@@ -262,7 +277,7 @@ Translations: (none)
 **Related Media:**
 
 [[collapsible show="▸ Access files" hide="▾ Close files"]]
-= By [[*user Alces_alces]], featuring **SCP-4322**
+= By [[*user Rex Atlas]], featuring **SCP-4322**
 [[=image art-4322-alces.jpeg]]
 
 = By [[*user Aethris]], featuring **SCP-4838**
@@ -320,7 +335,7 @@ When the SCP/tales list get too long, add:
 > **Filename:** mallard.jpeg
 > **Author:** [https://commons.wikimedia.org/wiki/User:Bengt_Nyman Bengt Nyman]
 > **License:** CC-BY-SA 4.0
-> **Source Link:** https://commons.wikimedia.org/wiki/File:Birds_of_Sweden_2016_52.jpg
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Birds_of_Sweden_2016_52.jpg Wikimedia Commons]
 
 > **Filename:** art-4322-alces.jpeg
 > **Author:** [[*user Alces_alces]]
@@ -330,6 +345,6 @@ When the SCP/tales list get too long, add:
 > **Filename:** Rk6SSxu.png
 > **Author:** [[*user Aethris]]
 > **License:** CC-BY-SA 3.0
-> **Source Link:** https://i.imgur.com/Rk6SSxu.png
+> **Source Link:** [https://i.imgur.com/Rk6SSxu.png Aethris]
 =====
 [[include component:license-box-end]]
