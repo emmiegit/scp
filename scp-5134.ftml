@@ -1,0 +1,137 @@
+[[module CSS]]
+@import url(/component:scp-pride/code/1);
+[[/module]]
+
+[[include info:start]]
+**SCP-5134:** Itchy
+**Author:** [[*user aismallard]]
+**Images:** [https://commons.wikimedia.org/wiki/File:Euproctis_Chrysorrhoea_skin_rash.jpg Link].
+**Music:** [https://youtu.be/uX3Gw82f6GU Blood] (My Chemical Romance)
+
+[!--
+[[size 80%]]
+= **Next: [[[SCP-XXXX]]]: //Title Here//**
+[[/size]]
+--]
+
+----
+
+= **More by [[[aismallard]]].**
+
+**Thanks to:**
+* [[*user The Great Hippo]]
+* [[*user Uncle Nicolini]]
+* [[*user SoullessSingularity]]
+
+[[include info:end]]
+
+[[include component:image-block
+    name=rash.jpeg |
+    caption=Photograph of first documented SCP-5134 case, early-stage.
+]]
+
+**Item #:** SCP-5134
+
+**Object Class:** Keter
+
+**Special Containment Procedures:** Individuals found infested with SCP-5134 are to be quarantined under Class-VIII biological containment protocol and moved to Bio Area-249. Experimentation to halt or cure SCP-5134 is ongoing.
+
+**Description:** SCP-5134 is a highly contagious fungus spread through skin contact or airborne spores. Infection begins either upon skin contact or in the nose as anomalous particulates interact with mitral cells. Spores begin manifesting after a few days and spread as the unaware individual touches their body.
+
+After incubation, affected flesh begins to exhibit signs of chronic hives. Tactile pressure on infected areas causes fungal stalks to collapse, forming brittle flakes which have the appearance of dead skin. The newly-exposed flesh causes embedded spores to erupt and clots blood, resulting in bruising. SCP-5134 growth can then proceed deeper, converting underlying cells into further fungal structures.
+
+Consequently, any physical contact on an infected individual will permanently scrape off that area of bodily tissue.
+
+**Addendum 5134.1:** Study of Infected Subject
+
+The following is a selection from an individual's weekly interview. They have been in containment for five months, with an SCP-5134 infestation considered to be mid-stage. Per biohazard protocol, the subject was maintained in their cell and interviewed remotely.
+
+[[div class="blockquote"]]
+= **INTERVIEW LOG**
+----
+**DATE:** 2009/02/17
+**INTERVIEWER:** Dr. Chen
+**SUBJECT:** E-94013
+----
+
+**[**BEGIN LOG.**]**
+
+**CHEN:** Hello Mr. Lamport. I hope containment has been acceptable.
+
+**SUBJECT:** Fine. Food's been worse than usual.
+
+**CHEN:** How have you been feeling since last week?
+
+**SUBJECT:** It's mostly the same. Nothing to do, boring as hell.
+
+**CHEN:** All right. I see noted here you've been complaining of headaches recently, has the medication been helping?
+
+**[** //Soft scratching.// **]**
+
+**SUBJECT:** Oh, right. Been having a hard time sleeping for a couple days now. Rolling over in my sleep a lot, and you know what that's like.
+
+**CHEN:** Yes, I remember reviewing last week's chamber cleaning.
+
+**SUBJECT:** Hmm. You know, I'm actually glad you guys make me do exercise. It hurts and all, but every once in a while I feel okay.
+
+**CHEN:** That's good to hear. I believe there's a new exercise program, I can see about getting you into the trial for it.
+
+**[** //Scratching sounds.// **]**
+
+**SUBJECT:** Yeah, sure.
+
+**CHEN:** Okay, cool. Anything else you'd like to say?
+
+**[** //Gentle tearing sound.// **]**
+
+**SUBJECT:** Not really.
+
+**CHEN:** //(nods)// So coming up this week the research team wants to try a new treatment. It'll be more of the flashing lights, but with a buzzing kind-of audio component.
+
+**[** //Rough scratching.// **]**
+
+**SUBJECT:** Last damn time I got this terrible headache. Can we just not do any new treatments? Like --
+
+**CHEN:** We think we worked out the issues with that cognitovaccine. It should be a lot more stable.
+
+**SUBJECT:** God, fine. Whatever.
+
+**[** //Quiet scratching can be heard.// **]**
+
+**CHEN:** Mr. Lamport, do --
+
+**SUBJECT:** I just hate this goddamn place. Why can't you euthanize me already?
+
+**CHEN:** We -- I told you what happened to Ms. Jorgensen, right? 
+
+**[** //Scratching stops.// **]**
+
+**SUBJECT:** //(pauses)// I know. I just wish you'd focus on that and not cures. This shit isn't getting a cure.
+
+**[** //Dry snapping sound, followed by a pronounced groan.// **]**
+
+**SUBJECT:** Aargh... fuck, my eyelid.
+
+**CHEN:** Place it in the biohazard disposal bin.
+
+**[**END LOG.**]**
+[[/div]]
+
+[[footnoteblock]]
+
+[[include component:wikimodule |normal= --]]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-5133]]] | SCP-5134 | [[[SCP-5135]]] >>
+[[/=]]
+[[/div]]
+
+[[include component:license-box]]
+=====
+> **Filename:** rash.jpeg
+> **Author:** Cyware
+> **License:** Public Domain
+> **Source Link:** https://commons.wikimedia.org/wiki/File:Euproctis_Chrysorrhoea_skin_rash.jpg
+=====
+[[include component:license-box-end]]
