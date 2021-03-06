@@ -1,6 +1,4 @@
-[[module CSS]]
-@import url(/component:scp-pride/code/1);
-[[/module]]
+[[include component:scp-pride]]
 
 [[include info:start]]
 **SCP-5134:** Itchy
