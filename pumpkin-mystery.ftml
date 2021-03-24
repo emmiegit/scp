@@ -1,0 +1,185 @@
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[include theme:black-highlighter-theme]]
+[[include theme:goc]]
+
+[[module CSS]]
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Playfair+Display+SC&display=swap');
+
+#page-title {
+    display: none;
+}
+
+div.newspaper-border {
+    border: 1px solid black;
+}
+
+div.newspaper-main {
+    font-family: 'Special Elite', sans-serif;
+}
+
+div.newspaper-title {
+    font-family: 'Playfair Display SC', serif;
+    font-size: 4em;
+    text-align: center;
+    margin: 0.25em;
+}
+
+div.newspaper-banner {
+    font-family: serif;
+    font-size: 110%;
+    border-top-style: solid;
+    border-bottom-style: solid;
+}
+
+div.newspaper-headline {
+    font-family: 'Anton', serif;
+    margin: 2px 0 5px;
+    text-align: center;
+}
+
+div.newspaper-reporter {
+    font-family: serif;
+    font-size: 120%;
+    font-style: italic;
+    text-align: center;
+}
+
+div.newspaper-body {
+    font-family: serif;
+    font-size: 1.2em;
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.4em;
+    padding: 1em;
+}
+
+div.newspaper-body div.scp-image-block {
+    margin: 0.5em 0 0 1em;
+}
+
+div.rejection {
+    border: 4px solid #ff4040;
+    border-radius: 30px;
+    font-weight: bold;
+    color: #ff4040;
+    text-align: center;
+    margin: 0.5em;
+}
+
+div.rejection-wrap {
+     transform: rotate(-3.8deg);
+     width: 35vw;
+     margin-bottom: 1em;
+     margin-left: 3em;
+}
+
+div.appeal {
+    margin-top: 5em;
+}
+
+blockquote,
+div.blockquote {
+    border: .0625rem dashed rgba(var(--swatch-border-color), .95);
+}
+[[/module]]
+
+[[div_ class="newspaper-border"]]
+[[div_ class="newspaper-main"]]
+[[div_ class="newspaper-title"]]
+THE CLAYTON TIMES
+[[/div]]
+[[div_ class="newspaper-banner"]]
+[[table style="border: none; width: 100%;"]]
+[[row]]
+[[cell]]
+CLAYTON, NORTH CAROLINA @@                                @@MONDAY, OCTOBER 14TH, 2019
+[[/cell]]
+[[cell style="text-align: right;"]]
+$1.99
+[[/cell]]
+[[/row]]
+[[/table]]
+[[/div]]
+[[div_ class="newspaper-headline" style="font-size: 370%;"]]
+CHAOS AT THE PUMPKIN FESTIVAL
+[[/div]]
+[[div_ class="newspaper-headline" style="font-size: 250%;"]]
+MYSTERIES SURROUND UNUSUAL DISASTER
+[[/div]]
+[[div_ class="newspaper-reporter"]]
+by Elaine Mitchell - Editor-In-Chief
+[[/div]]
+-----
+[[div_ class="newspaper-body"]]
+[[size 250%]]L[[/size]]ast Friday, Clayton held its famed annual pumpkin festival. However, unlike years past, this event was not a calm night of games, magic shows, and pumpkin pie. Early on the morning after, residents gathered in shock before the ruins of our Civic Center, surrounded by uprooted trees and shreds of pumpkins throughout the park.
+
+[[include component:image-block
+    name=wreckage.jpeg |
+    caption=The remains of the Clayton Civic Center.
+]]
+
+Police arrived at the scene around 10 AM, and were puzzled as to its nature. The state of destruction seemed to be that of a natural storm, though it was unusually localized around the park where the festivities were occurring. Chief of Police R. Hermans informed me that it is currently being investigated as an act of vandalism.
+
+"While the department won't comment on potential suspects during an ongoing investigation, we will say that this bizarre incident seems to be the result of an organized group of some kind," Hermans said in a statement. "We are encouraging members of the public to send copies of photos and videos from the 11th."
+
+The department's spokeswoman clarified that although a number of police officers were present at the event, none were witnesses to any criminal activity. Additionally, their personal devices did not contain any media of the event. This is especially unusual in the case of Officer Leyton, who is well-known in the community as an amateur photographer.
+
+Reporter Joshua Lee interviewed a number of families who identified as having attended the event, but found that similarly, no photographic evidence of the event (both on cellular devices and on social media) could be found. When questioned, these individuals could offer a generic summary of their activities at the festival, but faltered when pressed on specific details. No interviewed person had any information relevant to the incident.
+
+Lee also found five cases of inconsistent memories: in one, 78-year old retired resident Leonard Schneider reported bringing a large pumpkin to the event and having it win a prize, but he could not locate the prize ribbon. In another, 9-year old Mary Banks described a mayoral speech, despite the fact that Mayor Smith missed the event due to a fever.
+
+The damage to the Civic Center and the park was investigated by Reporter Sarah Samson along with local construction worker Devin Hartle. While most of the damage seemed to be attributable to rot, Hartle identified several areas where the woodwork had the marks of fire damage.
+
+"You know, the building hadn't been maintained super well before all this, but it definitely took some hits at some point in the last few weeks, and I believe this is what led to its collapse," Hartle said. "Whether this happened on the day of the festival is hard to say -- I know I was there and it seemed fine, but clearly it isn't anymore."
+
+The City's Department of Public Buildings is expected to release an official report later this month.
+[[/div]]
+[[/div]]
+[[/div]]
+
+[!-- end of newspaper, start of appeal --]
+
+[[div class="blockquote appeal"]]
+[[=]]
+++ PTOLEMY Division
+++++ Censorship Office
+[[/=]]
+
+**Filing Operative:** 06750353/4157 "Obsidian"
+
+**Document:** 4112873607-461/039A
+
+**Reason:** Appeal for Public Document
+
+**Body:**
+
+[[div class="blockquote"]]
+Last week's operation was a shitshow, nobody's denying that. But we must remember who we serve.
+
+No parathreats were found, no GOC agents were exposed, and yet we're here treating this like the reconstruction of Mekhane. There's nothing sensitive or classified in this newspaper. I think the Coalition Code is clear, censorship here is illegal.
+
+We don't need a second round of cleanup, more amnestics, more fake memories. Let it print and allow the people of Clayton to pick up the pieces themselves. The current cover story is inadequate and everyone knows it.
+
+It's a small community, they can get through this if they know what happened. As it stands, there is no public information on the event and the civilian government is flying blind.
+
+I respectfully ask that the article be permitted to circulate.
+[[/div]]
+
+**Decision:**
+
+[[div class="blockquote"]]
+[[div_ class="rejection-wrap"]]
+[[div_ class="rejection"]]
+[[div_ style="font-size: 350%;"]]
+REJECTED
+[[/div]]
+
+REMOVED FOR SECURITY REASONS
+[[/div]]
+[[/div]]
+[[/div]]
+
+[[/div]]
