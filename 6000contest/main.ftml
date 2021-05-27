@@ -1,0 +1,34 @@
+[[=]]
+[[module Rate]]
+[[/=]]
+[[include :scp-wiki:component:info-ayers
+|lang=en
+|page=6000contestaisstorm
+|authorPage=https://scp-wiki.wikidot.com/aismallard
+|comments= 
+**SCP-6000:** The True Empire 
+by [[*user stormbreath]] and [[*user aismallard]] 
+ 
+For the benefit of translators and editors, here are links to the individual offset pages: 
+ 
+* **[https://scp-wiki.wikidot.com/fragment:6000contestaisstorm-0 Fragment 0]**
+* **[https://scp-wiki.wikidot.com/fragment:6000contestaisstorm-1 Fragment 1]**
+]]
+
+[[module CSS]]
+#u-author_block {
+    display: none;
+}
+[[/module]]
+
+[[module ListPages category="fragment" parent="." order="created_at" limit="1" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-5999]]] | SCP-6000 | [[[SCP-6001]]] >>
+[[/=]]
+[[/div]]
