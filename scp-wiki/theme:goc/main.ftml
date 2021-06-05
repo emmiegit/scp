@@ -1,0 +1,438 @@
+[[iftags +theme]]
+[[module css]]
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/normalize.min.css");
+@import url("https://nu-scptheme.github.io/Black-Highlighter/css/min/black-highlighter.min.css");
+
+#page-title {
+    text-align: center !important;
+    font-family: var(--header-font);
+    font-size: 270%;
+}
+
+@media only screen and (max-width: 765px) {
+  #page-title {
+  font-size: 170%;
+  white-space: nowrap;
+  }
+ }
+[[/module]]
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[div_ style="filter: none;"]]
+[[image https://scp-wiki.wdfiles.com/local--files/theme%3Ablack-highlighter-theme/black-highlighter-logo.svg]]
+[[/div]]
+
+----
+
+[[=]]
++ Theme Colors
+[[/=]]
+
+[[include :scp-wiki:component:theme-squares -=-
+| color1-name=Ship Gray
+| color1-variable=--gray-monochrome
+| color1-info=#424248
+| color1-has-light-text=1
+| color2-name=Endeavor
+| color2-variable=--bright-accent
+| color2-info=#275495
+| color2-has-light-text=1
+| subcolor1-name=Cornflower
+| subcolor1-variable=--medium-accent
+| subcolor1-info=#5C95E6
+| subcolor2-name=Sail
+| subcolor2-variable=--dark-accent
+| subcolor2-info=#A4C2EC
+]]
+
+----
+
+[[div class="scp-image-block block-right" style="width: 300px;"]]
+[[image https://scp-wiki.wdfiles.com/local--files/goc-hub-page/GOC-Logo-v4.png]]
+[[div class="scp-image-caption" style="width: 300px;"]]
+Global Occult Coalition Seal
+[[/div]]
+[[/div]]
+
+++ Note: This is a Black Highlighter based theme. You will need to import the Black Highlighter theme as well in order to use this theme. [[[theme:black-highlighter-theme|To learn more go here.]]]
+
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+
+On any wiki:
+
+[[div class="code"]]
+@@[[include :scp-wiki:theme:black-highlighter-theme]]@@
+@@[[include :scp-wiki:theme:goc]]@@
+[[/div]]
+
++ Examples
+
+A horizontal rule can be created with 4 hyphens "@@----@@" and extends across the whole page if it's not placed inside anything (e.g. a blockquote). The lines separating sections of this document are horizontal rules.
+
+-----
+
+Titles can be created by putting between one and six plus "+" at the start of the line
+
+[[collapsible show="+ Titles" hide="- Titles"]]
++ First Title
+
+++ Second Title
+
++++ Third Title
+
+++++ Fourth Title
+
++++++ Fifth Title
+
+++++++ Sixth Title
+[[/collapsible]]
+
+@@ @@
+
+[[tabview]]
+[[tab Tabulator]]
+Just use your imagination and pretend there's {{Lorem Ipsum}} here.
+
+* [[span style="color: rgb(var(--dark-accent))"]]Visited link[[/span]]
+* [[span style="color: rgb(var(--medium-accent))"]]Unvisited link[[/span]]
+* [[span style="color: rgb(var(--link-color))"]]Missing link[[/span]]
+[[/tab]]
+[[tab Tabulation]]
+Hey look, more text here.
+
+How quaint.
+[[/tab]]
+[[tab Long Tab]]
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+[[/tab]]
+[[tab Empty Tab]]
+[[/tab]]
+[[tab Empty Tab]]
+[[/tab]]
+[[tab Empty Tab]]
+[[/tab]]
+[[tab Empty Tab]]
+[[/tab]]
+[[tab Empty Tab]]
+[[/tab]]
+[[tab Empty Tab]]
+weed lmao
+[[/tab]]
+[[/tabview]]
+
+> This is a blockquote, created by putting "> " at the start of each line, or use {{@@[[div class="blockquote"]]@@}}.
+> 
+> More text
+> -----
+> That's a horizontal rule
+>
+>> Nested blockquotes
+>>> And another[[footnote]] And here's a footnote! [[/footnote]]
+
+Here's a multipurpose GOC logo div:
+
+[[div class="warning"]]
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+@@ @@
+[[/div]]
+
+[[div class="code"]]
+@<[[div class="warning"]]>@
+@<My content here!>@
+@<[[/div]]>@
+[[/div]]
+
+----
+
+||~ This is a ||~ table ||
+||You should know || how to make these ||
+||||already ||
+
+----
+
+[[=]]
+[[span style="font-family: var(--header-font);"]]The Header and Title font is Russo One.[[/span]]
+[[span style="font-family: var(--body-font);"]]The Body font is Lato.[[/span]]
+[[span style="font-family: var(--mono-font);"]]The Monospace font used is PT Mono.[[/span]]
+[[/=]]
+
+----
+
+[[collapsible hideLocation="both" show="+ Theme Code" hide="- Close"]]
+[[code type="css"]]
+
+/*
+    Ex Officio Theme
+    [2020 Wikidot Theme]
+    Created by Rounderhouse and aismallard.
+    Thanks to wctaiwan, stormbreath, TSATPWTCOTTTADC, Woedenaz for critique and help.
+    Based on Black Highlighter Theme created by Woedenaz and Croquembouche.
+    The GOC logo was created by 7happy7. Licensed under CC BY SA 3.0.
+*/
+
+/* Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+/* GOC logo */
+
+@import url('https://scp-wiki.wdfiles.com/local--files/theme%3Agoc/goc-logo.css');
+
+/* Variable definitions */
+
+:root {
+    /* S-CSS-P Integration */
+    /* If you're making a new CSS theme, please include the following three variables at minimum. */
+    --theme-base: 'black-highlighter';
+    /* must be either 'black-highlighter' or 'sigma9' */
+    --theme-id: 'black-highlighter';
+    /* set this to the URL of your theme's page - e.g. for 'component:ar-theme', set it to 'ar-theme' */
+    --theme-name: 'goc';
+    /* set this to your theme's full name */
+    --theme-name-full: 'Ex Officio Theme'; /* no idea if this is the right var or not */
+
+    /* Header */
+    /* animated GOC logo, courtesy of 7happy7! */
+    --header-title: 'Global Occult Coalition';
+    --header-subtitle: 'CASEFILES ARCHIVE';
+
+    /* Typefaces */
+    --body-font: 'Lato', sans-serif;
+    --header-font: 'Russo One', sans-serif;
+    --title-font: 'Russo One', sans-serif;
+    --mono-font: 'PT Mono', 'Andale Mono', 'Courier New', Courier, monospace;
+
+    /* Standard Colors */
+    --white-monochrome: 252, 252, 252;
+    /* white */
+    --pale-gray-monochrome: 244, 244, 244;
+    /* v light gray for blockquotes and stuff */
+    --light-gray-monochrome: 170, 170, 170;
+    /* light accent gray for login status */
+    --gray-monochrome: 66, 66, 72;
+    /* gray */
+    --dark-gray-monochrome: 48, 48, 52;
+    /* dark accent gray for sidebar background */
+    --black-monochrome: 12, 12, 12;
+    /* black */
+    --bright-accent: 39, 84, 149;
+    /* bright blue */
+    --medium-accent: 92, 149, 230;
+    /* pale blue */
+    --dark-accent: 164, 194, 236;
+    /* v pale blue */
+    --newpage-color: 99, 190, 255;
+
+    /* Primary Theme Colors */
+    --swatch-primary: var(--medium-accent);
+    --swatch-primary-darker: var(--bright-accent);
+    --swatch-primary-darkest: var(--bright-accent);
+
+    /* Primary Menu Colors */
+    --swatch-menubg-color: var(--pale-gray-monochrome);
+    --swatch-menubg-light-color: var(--white-monochrome);
+    --swatch-menubg-medium-color: var(--medium-accent);
+    --swatch-menubg-medium-dark-color: var(--black-monochrome);
+    --swatch-menubg-dark-color: var(--medium-accent);
+    --swatch-menubg-hover-color: var(--gray-monochrome);
+    --swatch-menutxt-light-color: var(--white-monochrome);
+    --swatch-border-color: var(--dark-accent);
+
+    /* Primary Header Colors */
+    --swatch-headerh1-color: var(--bright-accent);
+    --swatch-headerh2-color: var(--bright-accent);
+    --swatch-topmenu-border-color: var(--medium-accent);
+    --swatch-topmenu-bg-color: var(--dark-accent);
+    --rating-module-button-color: var(--black-monochrome);
+    --rating-module-text-color: var(--black-monochrome);
+
+    /* Header measurements */
+    --header-height-on-desktop: 11rem;
+    --header-height-on-mobile: 7.5rem;
+    --topbar-height-on-desktop: 1.875rem;
+    --topbar-height-on-mobile: 3.5rem;
+
+    /* Sidebar */
+    --sidebar-transition-timing: 0.5s ease-in-out 0.1s;
+    --sidebar-internal-border-thickness: 0.125rem;
+    --background-gradient-color: var(--dark-accent);
+    --background-gradient-distance: 20rem;
+    --diagonal-stripes: none;
+}
+
+@media only screen and (max-width: 425px) {
+:root {
+  --header-title: "UNGOC";
+}
+}
+
+/* Add scrollbar */
+html,
+body,
+#side-bar:hover {
+    scrollbar-color: rgb(var(--bright-accent)) rgb(var(--dark-accent));
+}
+
+::-webkit-scrollbar,
+#side-bar:hover::-webkit-scrollbar {
+    background-color: rgb(var(--dark-accent));
+}
+
+::-webkit-scrollbar-thumb,
+#side-bar:hover::-webkit-scrollbar-thumb {
+    background-color: rgb(var(--bright-accent));
+}
+
+/* Topbar sub-menu item color */
+#top-bar div.mobile-top-bar > ul > li > ul > li > a,
+#top-bar div.top-bar > ul > li > ul > li > a {
+    color: rgb(var(--white-monochrome));
+}
+
+/* Header shadow and colors */
+#header {
+    -webkit-filter: drop-shadow(-.1rem .1rem 0 white);
+    -moz-drop-shadow:: drop-shadow(-.1rem .1rem 0 white);
+    -ms-drop-shadow: drop-shadow(-.1rem .1rem 0 white);
+    -o-drop-shadow: drop-shadow(-.1rem .1rem 0 white);
+    filter: drop-shadow(-.1rem .1rem 0 white);
+}
+
+#header h1 a::before {
+    color: rgb(var(--medium-accent));
+}
+
+/* Remove text shadow from headers */
+#header h1 a::before,
+#header h2 span::before {
+    --text-shadow: none;
+    text-shadow: none;
+}
+
+/* Remove BHL's letter spacing for main header and title */
+#header h1 a::before,
+#page-title {
+    letter-spacing: 0;
+}
+
+/* Login status link */
+#login-status a {
+    color: rgb(var(--bright-accent));
+    font-weight: bold;
+}
+
+/* Search box */
+#search-top-box input.empty {
+    background-color: rgba(var(--pale-gray-monochrome));
+    color: rgb(var(--medium-accent));
+}
+
+blockquote,
+.blockquote {
+    border-style: outset;
+    border-color: rgb(var(--dark-accent));
+    background-color: rgba(var(--light-gray-monochrome), 0.03);
+}
+
+/* Set horizontal rules to have the double line GOC formats have */
+hr {
+    border-top: 2px solid #777;
+    padding: 0.5px;
+    border-bottom: 1px solid #777;
+    background: transparent;
+}
+
+/* Set link colors */
+a {
+    color: rgb(var(--medium-accent));
+}
+a:visited {
+    color: rgb(var(--dark-accent));
+}
+a.newpage {
+    color: rgb(var(--link-color));
+}
+
+/* Set background and style for section above topbar */
+#extra-div-2 {
+    --drop-shadow: rgb(var(--pale-gray-monochrome));
+    display: block;
+    width: 100%;
+    height: 11rem;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background: url('https://scp-wiki.wdfiles.com/local--files/theme%3Agoc/goc-background.png');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    -webkit-filter: drop-shadow(-0.125rem 0.125rem 0rem var(--drop-shadow));
+    filter: drop-shadow(-0.125rem 0.125rem 1rem var(--drop-shadow));
+    pointer-events: none;
+}
+
+/* Override color for top and sidebars */
+#top-bar div.mobile-top-bar > ul > li > a, 
+#top-bar div.top-bar > ul > li > a,
+#side-bar .heading p, 
+#side-bar .side-block > .collapsible-block .collapsible-block-link {
+  color: rgb(var(--swatch-text-tertiary-color));
+}
+
+div.warning {
+    color: black;
+    border: solid 2px #275495;
+    background:#fff url('https://scp-wiki.wdfiles.com/local--files/theme%3Agoc/goc-fade.png') center no-repeat;
+    padding:15px;
+    margin: 10px auto;
+    text-align:center;
+    width: 80%;
+}
+
+div.warning hr {
+    border-color: #275495;
+}
+[[/code]]
+[[/collapsible]]
+[[/iftags]]
+
+[[module css]]
+@import url('https://scp-wiki.wdfiles.com/local--code/theme%3Agoc/1');
+[[/module]]
