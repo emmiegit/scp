@@ -9,20 +9,20 @@ My first boldpost.
 [[include info:end]]
 
 [[module CSS]]
-sup {
-    font-size: 115%;
+span.reference {
+    vertical-align: super;
 }
 [[/module]]
 
-**Item #:** SCP-4853^^(1)^^
+**Item #:** SCP-4853[[span class="reference"]](1)[[/span]]
 
-**Object Class:** Keter^^(2)^^
+**Object Class:** Keter[[span class="reference"]](2)[[/span]]
 
 **Special Containment Procedures:** The only designation which may be applied to SCP-4853 is SCP-4853.[[footnote]]This prohibits phrases such as "the anomaly", "the object", "it", or colloquial terms like "skip".[[/footnote]] Other references to SCP-4853 may exist only in this document, and may not exceed ten instances. A numeric identifier for each active reference has been placed next to its first appearance.
 
 Civilians who express awareness of SCP-4853 are to be amnesticized. If needed, standard financial remediation is to be carried out.
 
-**Description:** SCP-4853 is a metaphysical concept^^(3)^^ with a high degree of informational inertia.^^(4)^^
+**Description:** SCP-4853 is a metaphysical concept[[span class="reference"]](3)[[/span]] with a high degree of informational inertia.[[span class="reference"]](4)[[/span]]
 
 **Addendum 4853-1:** Experiment Logs
 
