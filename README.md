@@ -33,4 +33,7 @@ See also my list of [favorite SCP articles](https://ammonsmith.me/favorite-scp.h
 * [aismallard](https://scp-wiki.wikidot.com/aismallard) - Author Page
 * [Finding Asmodeus](https://scp-wiki.wikidot.com/finding-asmodeus) Hub
 
+## Wanderer's Library
+* [My Island](https://wanderers-library.wikidot.com/my-island)
+
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)
