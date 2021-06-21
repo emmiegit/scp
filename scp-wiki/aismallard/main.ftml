@@ -1,10 +1,30 @@
+[!--
+
+NOTE:
+
+This document is auto-generated using the template-based build system here:
+https://github.com/ammongit/scp-author-page
+
+Any changes you make directly to this page will likely be overwritten.
+
+If you wish to correct a typo or other issue with the page, please send a PM
+to the author instead:
+
+http://www.wikidot.com/account/messages#/new/4598089
+
+--]
+
+
 [[include theme:black-highlighter-theme]]
 [[include component:pride-highlighter | inc-nb-alt=--] ]]
 
 [[module CSS]]
-.indent {
-    margin-left: 3em;
-    hyphens: none;
+.page-header {
+    font-size: 120%;
+}
+
+.page-stats {
+    font-size: 80%;
 }
 [[/module]]
 
@@ -16,7 +36,7 @@
 [[include component:image-block
     name=mallard.jpeg |
     caption=--File photo of D-41562.--
-    A male //Anas platyrhynchos//.
+    An instance of //Anas platyrhynchos//.
 ]]
 
 **Personnel #:** D-41562
@@ -36,279 +56,403 @@
 **Medical Notes:**
 * Class-2 Amnestic Resistance
 * Medium Cognitive Resistance Value (9.3)
-* Dislikes nuts
+* Dislikes nuts (not allergic)
 
 [!-- SCPs --]
-**Involved projects:**
 
-[[collapsible show="▸ Access files" hide="▾ Close files"]]
+**Involved Projects:**
+
+[[div class="blockquote"]]
 [[module ListPages name="scp-4339" limit="1"]]
-* [[[*scp-4339|SCP-4339 - The Attribute Pen]]] [##green|+%%rating%%##] [Comments: %%comments%%]
+[[span class="page-header"]]**[[[SCP-4339]]]**: The Attribute Pen (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
 
-> D-91386 was told to say "my name is D-88111".
-> D-88111's identification was changed.
-
-[[div class="indent"]]
+[[div class="blockquote"]]
+D-91386 was told to say "my name is D-88111".
+D-88111's identification was changed.
+[[/div]]
+----
+[[div class="page-stats"]]
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
 Tags: {{%%tags%%}}
-Tag Golf: {{ethics-committee tool}}
-Translations: @@[@@[http://scp-wiki-cn.wikidot.com/scp-4339 Chinese], [http://ja.scp-wiki.net/scp-4339 Japanese], [http://scp-es.com/scp-4339 Spanish]@@]@@
+Translations: [http://scp-wiki-cn.wikidot.com/scp-4339 CN], [http://ja.scp-wiki.net/scp-4339 JP], [http://lafundacionscp.wikidot.com/scp-4339 ES]
 [[/div]]
 [[/module]]
-
+[[/div]]
+[[div class="blockquote"]]
 [[module ListPages name="scp-3597" limit="1"]]
-* [[[*scp-3597|SCP-3597 - Maladroit]]] ([https://redd.it/anbeco declassification]) [##green|+%%rating%%##] [Comments: %%comments%%]
+[[span class="page-header"]]**[[[SCP-3597]]]**: Maladroit (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
+For: [[[cliche-con-2019|Cliché-Con]]]
 
-[[div class="indent"]]
-Requisitioned for: [[[cliche-con-2019|Cliché-Con]]]
+[[div class="blockquote"]]
+**Description:** [DATA EXPUNGED]
 [[/div]]
-
-> **Description:** [DATA EXPUNGED]
-
-[[div class="indent"]]
+----
+[[div class="page-stats"]]
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
 Tags: {{%%tags%%}}
-Tag Golf: {{immobile infohazard}}
-Translations: @@[@@[http://scp-wiki-cn.wikidot.com/scp-3597 Chinese], [http://ja.scp-wiki.net/scp-3597 Japanese], [http://scp-ukrainian.wikidot.com/scp-3597 Ukrainian]@@]@@
+Translations: [http://scp-wiki-cn.wikidot.com/scp-3597 CN], [http://scp-wiki-de.wikidot.com/scp-3597 DE], [http://ja.scp-wiki.net/scp-3597 JP], [http://scpfoundation.net/scp-3597 RU], [http://lafundacionscp.wikidot.com/scp-3597 ES], [http://scp-ukrainian.wikidot.com/scp-3597 UK]
 [[/div]]
 [[/module]]
-
+[[/div]]
+[[div class="blockquote"]]
 [[module ListPages name="scp-4447" limit="1"]]
-* [[[*scp-4447|SCP-4447 - Sasha's Super Shuttle Service!]]] [##green|+%%rating%%##] [Comments: %%comments%%]
+[[span class="page-header"]]**[[[SCP-4447]]]**: Sasha's Super Shuttle Service! (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
 
-> When the anomaly is activated, the individuals, including their clothing, attached equipment, and jewelry, immediately switch positions.
-
-[[div class="indent"]]
+[[div class="blockquote"]]
+When the anomaly is activated, the individuals, including their clothing, attached equipment, and jewelry, immediately switch positions.
+[[/div]]
+----
+[[div class="page-stats"]]
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
 Tags: {{%%tags%%}}
-Tag Golf: {{marshall-carter-and-dark telepathic}}
-Translations: (none)
+
 [[/div]]
 [[/module]]
-
+[[/div]]
+[[div class="blockquote"]]
 [[module ListPages name="scp-1294-j" limit="1"]]
-* [[[*scp-1294-j|SCP-1294-J - Watering-down Can]]] [##green|+%%rating%%##] [Comments: %%comments%%]
+[[span class="page-header"]]**[[[SCP-1294-J]]]**: Watering-down Can (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
 
-> Oak wood restraints painted cyan and reinforced with lead-telekill-iron-oxide alloy have been attached to the object to prevent spills.
-
-[[div class="indent"]]
+[[div class="blockquote"]]
+Oak wood restraints painted cyan and reinforced with lead-telekill-iron-oxide alloy have been attached to the object to prevent spills.
+[[/div]]
+----
+[[div class="page-stats"]]
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
 Tags: {{%%tags%%}}
-Tag Golf: (none)
-Translations: (none)
+Translations: [http://scp-wiki-cn.wikidot.com/scp-1294-j CN]
 [[/div]]
 [[/module]]
-
+[[/div]]
+[[div class="blockquote"]]
 [[module ListPages name="scp-4322" limit="1"]]
-* [[[*scp-4322|SCP-4322 - Sleepless Dreams]]] [##green|+%%rating%%##] [Comments: %%comments%%]
+[[span class="page-header"]]**[[[SCP-4322]]]**: Sleepless Dreams (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
 
-> SCP-4322 is a radio transceiver, anomalously modified to transmit psionic waves instead of electromagnetic radiation.
-
-[[div class="indent"]]
+[[div class="blockquote"]]
+SCP-4322 is a radio transceiver, anomalously modified to transmit psionic waves instead of electromagnetic radiation.
+[[/div]]
+----
+[[div class="page-stats"]]
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
 Tags: {{%%tags%%}}
-Tag Golf: {{appliance ethics-committee}}
-Translations: @@[@@[http://scp-wiki-cn.wikidot.com/scp-4322 Chinese], [http://scp-cs.wikidot.com/scp-4322 Czech], [http://fondationscp.wikidot.com/scp-4322 French], [http://ja.scp-wiki.net/scp-4322 Japanese], [http://scpfoundation.net/scp-4322 Russian], [http://scp-es.com/scp-4322 Spanish]@@]@@
+Translations: [http://scp-wiki-cn.wikidot.com/scp-4322 CN], [http://scp-cs.wikidot.com/scp-4322 CS], [http://fondationscp.wikidot.com/scp-4322 FR], [http://ja.scp-wiki.net/scp-4322 JP], [http://scpfoundation.net/scp-4322 RU], [http://lafundacionscp.wikidot.com/scp-4322 ES]
 [[/div]]
 [[/module]]
-
+[[/div]]
+[[div class="blockquote"]]
 [[module ListPages name="scp-4406" limit="1"]]
-* [[[*scp-4406|SCP-4406 - SUDDEN THUNDER]]] [##green|+%%rating%%##] [Comments: %%comments%%]
+[[span class="page-header"]]**[[[SCP-4406]]]**: SUDDEN THUNDER (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
+Written with: [[*user pxdnbluesoul]]
+For: [[[collaboration-contest|Collab-Con]]]
 
-[[div class="indent"]]
-Requisitioned for: [[[collaboration-contest|Collab-Con]]]
-Filed with: [[*user pxdnbluesoul]]
+[[div class="blockquote"]]
+SCP-4406 is highly advanced surveillance software, which masks itself from the host operating system by means of an electronic antimeme.
 [[/div]]
-
-> SCP-4406 is highly advanced surveillance software, which masks itself from the host operating system by means of an electronic antimeme.
-
-[[div class="indent"]]
+----
+[[div class="page-stats"]]
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
 Tags: {{%%tags%%}}
-Tag Golf: {{concept electronic}}
-Translations: (none)
+
 [[/div]]
 [[/module]]
-
+[[/div]]
+[[div class="blockquote"]]
 [[module ListPages name="scp-4838" limit="1"]]
-* [[[*scp-4838|SCP-4838 - Lover's Quarrel]]] [##green|+%%rating%%##] [Comments: %%comments%%]
+[[span class="page-header"]]**[[[SCP-4838]]]**: Lover's Quarrel (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
 
-> I know this is a hard time for us, but I truly do love you. We are strong, we'll make it through this.
-
-[[div class="indent"]]
+[[div class="blockquote"]]
+I know this is a hard time for us, but I truly do love you. We are strong, we'll make it through this.
+[[/div]]
+----
+[[div class="page-stats"]]
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
 Tags: {{%%tags%%}}
-Tag Golf: (none)
-Translations: @@[@@[http://scp-wiki-cn.wikidot.com/scp-4838 Chinese]@@]@@
+Translations: [http://scp-wiki-cn.wikidot.com/scp-4838 CN], [http://ja.scp-wiki.net/scp-4838 JP], [http://scpfoundation.net/scp-4838 RU], [http://scp-th.wikidot.com/scp-4838 TH]
 [[/div]]
 [[/module]]
-
+[[/div]]
+[[div class="blockquote"]]
 [[module ListPages name="scp-4853" limit="1"]]
-* &[[[*scp-4853|SCP-4853]]] ([https://redd.it/chynf6 declassification]) [##green|+%%rating%%##] [Comments: %%comments%%]
+[[span class="page-header"]]&**[[[SCP-4853]]]** (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
 
-> The only designation which may be applied to SCP-4853 is SCP-4853.
-
-[[div class="indent"]]
+[[div class="blockquote"]]
+The only designation which may be applied to SCP-4853 is SCP-4853.
+[[/div]]
+----
+[[div class="page-stats"]]
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
 Tags: {{%%tags%%}}
-Tag Golf: (none)
-Translations: @@[@@[http://scp-wiki-cn.wikidot.com/scp-4853 Chinese], [http://ja.scp-wiki.net/scp-4853 Japanese], [http://scp-es.com/scp-4853 Spanish]@@]@@
+Translations: [http://scp-wiki-cn.wikidot.com/scp-4853 CN], [http://ja.scp-wiki.net/scp-4853 JP], [http://ko.scp-wiki.net/scp-4853 KO], [http://scpfoundation.net/scp-4853 RU], [http://lafundacionscp.wikidot.com/scp-4853 ES]
 [[/div]]
 [[/module]]
-
+[[/div]]
+[[div class="blockquote"]]
 [[module ListPages name="scp-4781" limit="1"]]
-* [[[*scp-4781|SCP-4781 - Sour and Dill]]] [##green|+%%rating%%##] [Comments: %%comments%%]
+[[span class="page-header"]]**[[[SCP-4781]]]**: Sour and Dill (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
 
-> Specimens of SCP-4781 exhibit a cognitohazardous effect, causing misidentification of the anomaly and its effects as non-anomalous dill pickles.
-
-[[div class="indent"]]
+[[div class="blockquote"]]
+Specimens of SCP-4781 exhibit a cognitohazardous effect, causing misidentification of the anomaly and its effects as non-anomalous dill pickles.
+[[/div]]
+----
+[[div class="page-stats"]]
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
 Tags: {{%%tags%%}}
-Tag Golf: (none)
-Translations: @@[@@[http://scp-wiki-cn.wikidot.com/scp-4781 Chinese], [http://scp-es.com/scp-4781 Spanish]@@]@@
+Translations: [http://scp-wiki-cn.wikidot.com/scp-4781 CN], [http://ja.scp-wiki.net/scp-4781 JP], [http://ko.scp-wiki.net/scp-4781 KO], [http://scpfoundation.net/scp-4781 RU], [http://lafundacionscp.wikidot.com/scp-4781 ES]
 [[/div]]
 [[/module]]
-
+[[/div]]
+[[div class="blockquote"]]
 [[module ListPages name="scp-5900" limit="1"]]
-* [[[*scp-5900|SCP-5900 - PITCHBLACK]]] [##green|+%%rating%%##] [Comments: %%comments%%]
+[[span class="page-header"]]**[[[SCP-5900]]]**: PITCHBLACK (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
+For: [[[scp5000contesthub|5k-Con]]]
 
-[[div class="indent"]]
-Requisitioned for: [[[scp5000contesthub|5k-Con]]]
+[[div class="blockquote"]]
+During this time, surveillance satellites, Site-07 communications, intelligence processing, and IntSCPFN file sync were inoperable. The full extent and nature of the anomaly are presently unknown.
 [[/div]]
-
-> During this time, surveillance satellites, Site-07 communications, intelligence processing, and IntSCPFN file sync were inoperable. The full extent and nature of the anomaly are presently unknown.
-
-[[div class="indent"]]
+----
+[[div class="page-stats"]]
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
 Tags: {{%%tags%%}}
-Tag Golf: {{maria-jones serpents-hand}}
-Translations: (none)
+Translations: [http://scp-wiki-cn.wikidot.com/scp-5900 CN], [http://lafundacionscp.wikidot.com/scp-5900 ES]
 [[/div]]
 [[/module]]
-
+[[/div]]
+[[div class="blockquote"]]
 [[module ListPages name="scp-5633" limit="1"]]
-* [[[*scp-5633|SCP-5633 - This Will Require A Great Amount of Blood]]] [##green|+%%rating%%##] [Comments: %%comments%%]
+[[span class="page-header"]]**[[[SCP-5633]]]**: This Will Require A Great Amount of Blood (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
+Written with: [[*user Rex Atlas]], [[*user Captain Kirby]], [[*user JackalRelated]], [[*user magna2s]], [[*user Modulum]], [[*user Rounderhouse]], [[*user Sterbai]], [[*user Tufto]], [[*user Uncle Nicolini]], [[*user Woedenaz]], [[*user Yossipossi]]
 
-[[div class="indent"]]
-Filed with: [[*user Rex Atlas]] [[*user Captain Kirby]] [[*user JackalRelated]] [[*user magna2s]] [[*user Modulum]] [[*user Rounderhouse]], [[*user Sterbai]] [[*user Tufto]] [[*user Uncle Nicolini]] [[*user Woedenaz]] [[*user Yossipossi]]
+[[div class="blockquote"]]
+SCP-5633 is a large humanoid body located approximately 50m underground. The inside of SCP-5633 consists of enlarged veins, and steel scaffolding. The veins contain liquid that is both red and black in coloration, and highly viscous. Pipes extracting liquid from SCP-5633's veins are located along its arms, legs and back.
 [[/div]]
-
-> SCP-5633 is a large humanoid body located approximately 50m underground. The inside of SCP-5633 consists of enlarged veins, and steel scaffolding. The veins contain liquid that is both red and black in coloration, and highly viscous. Pipes extracting liquid from SCP-5633's veins are located along its arms, legs and back. 
-
-[[div class="indent"]]
+----
+[[div class="page-stats"]]
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
 Tags: {{%%tags%%}}
-Tag Golf: (none)
-Translations: (none)
+Translations: [http://scp-wiki-cn.wikidot.com/scp-5633 CN]
 [[/div]]
 [[/module]]
-
+[[/div]]
+[[div class="blockquote"]]
 [[module ListPages name="scp-5510" limit="1"]]
-* [[[*scp-5510|SCP-5510 - Universal Remote]]] [##green|+%%rating%%##] [Comments: %%comments%%]
+[[span class="page-header"]]**[[[SCP-5510]]]**: Universal Remote (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
 
-> Your session will expire after 118 seconds of inactivity.
-
-[[div class="indent"]]
+[[div class="blockquote"]]
+Your session will expire after 118 seconds of inactivity.
+[[/div]]
+----
+[[div class="page-stats"]]
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
 Tags: {{%%tags%%}}
-Tag Golf: (none)
-Translations: (none)
+Translations: [http://scp-wiki-cn.wikidot.com/scp-5510 CN], [http://scp-cs.wikidot.com/scp-5510 CS], [http://fondationscp.wikidot.com/scp-5510 FR], [http://ja.scp-wiki.net/scp-5510 JP], [http://ko.scp-wiki.net/scp-5510 KO], [http://scp-wiki.net.pl/scp-5510 PL], [http://scpfoundation.net/scp-5510 RU], [http://lafundacionscp.wikidot.com/scp-5510 ES], [http://scp-th.wikidot.com/scp-5510 TH], [http://scp-zh-tr.wikidot.com/scp-5510 ZH], [http://scp-ukrainian.wikidot.com/scp-5510 UK]
 [[/div]]
 [[/module]]
-[[/collapsible]]
+[[/div]]
+[[div class="blockquote"]]
+[[module ListPages name="scp-5502" limit="1"]]
+[[span class="page-header"]]**[[[SCP-5502]]]**: Where the Smoke Trail Ends (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
+
+[[div class="blockquote"]]
+SCP-5502 refers to an event on 2034/05/05 at around 04:10 UTC wherein all Fifthist-related anomalies known to the Foundation became neutralized.
+[[/div]]
+----
+[[div class="page-stats"]]
+Written: {{%%created_at%%}}
+Last Edited: {{%%updated_at%%}} by %%updated_by%%
+Last Commented: {{%%commented_at%%}} by %%commented_by%%
+Tags: {{%%tags%%}}
+Translations: [http://ja.scp-wiki.net/scp-5502 JP], [http://lafundacionscp.wikidot.com/scp-5502 ES]
+[[/div]]
+[[/module]]
+[[/div]]
+[[div class="blockquote"]]
+[[module ListPages name="scp-5134" limit="1"]]
+[[span class="page-header"]]**[[[SCP-5134]]]**: Itchy (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
+
+[[div class="blockquote"]]
+Consequently, any physical contact on an infected individual will permanently scrape off that area of bodily tissue.
+[[/div]]
+----
+[[div class="page-stats"]]
+Written: {{%%created_at%%}}
+Last Edited: {{%%updated_at%%}} by %%updated_by%%
+Last Commented: {{%%commented_at%%}} by %%commented_by%%
+Tags: {{%%tags%%}}
+Translations: [http://ja.scp-wiki.net/scp-5134 JP], [http://lafundacionscp.wikidot.com/scp-5134 ES]
+[[/div]]
+[[/module]]
+[[/div]]
+[[div class="blockquote"]]
+[[module ListPages name="scp-5446" limit="1"]]
+[[span class="page-header"]]**[[[SCP-5446]]]**: Shock Troops (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
+For: [[[jam-con-2021|JamCon 2021]]]
+
+[[div class="blockquote"]]
+Originally SCP-5446 was held in a Site-19 locker before being requisitioned to produce sea-based security personnel.
+[[/div]]
+----
+[[div class="page-stats"]]
+Written: {{%%created_at%%}}
+Last Edited: {{%%updated_at%%}} by %%updated_by%%
+Last Commented: {{%%commented_at%%}} by %%commented_by%%
+Tags: {{%%tags%%}}
+
+[[/div]]
+[[/module]]
+[[/div]]
+[[div class="blockquote"]]
+[[module ListPages name="scp-5871" limit="1"]]
+[[span class="page-header"]]**[[[SCP-5871]]]**: Retroactive Knife (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
+For: [[[jam-con-2021|JamCon 2021]]]
+
+[[div class="blockquote"]]
+The object was discovered in an anomalous burial site within modern-day Mongolia in 1831 and was created in 2020.
+[[/div]]
+----
+[[div class="page-stats"]]
+Written: {{%%created_at%%}}
+Last Edited: {{%%updated_at%%}} by %%updated_by%%
+Last Commented: {{%%commented_at%%}} by %%commented_by%%
+Tags: {{%%tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/scp-5871 CN]
+[[/div]]
+[[/module]]
+[[/div]]
+[[div class="blockquote"]]
+[[module ListPages name="6000contestaisstorm" limit="1"]]
+[[span class="page-header"]]**[[[6000contestaisstorm|SCP-6000 Contest Entry]]]**: The True Empire (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
+Written with: [[*user stormbreath]]
+For: [[[scp6000contesthub|6k-Con]]]
+
+[[div class="blockquote"]]
+Daevite control of nuclear weapons and ICBMs for delivery is a certainty.
+[[/div]]
+----
+[[div class="page-stats"]]
+Written: {{%%created_at%%}}
+Last Edited: {{%%updated_at%%}} by %%updated_by%%
+Last Commented: {{%%commented_at%%}} by %%commented_by%%
+Tags: {{%%tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/6000contestaisstorm CN], [http://lafundacionscp.wikidot.com/6000contestaisstorm ES]
+[[/div]]
+[[/module]]
+[[/div]]
 
 [!-- Tales --]
-[!--
-**Disciplinary reports:**
 
-[[collapsible show="▸ Access files" hide="▾ Close files"]]
-* LINK AND TITLE AND STUFF HERE
-[[/collapsible]]
---]
+**Field Reports:**
 
-[!-- GoI formats --]
-**Documents recovered from Groups of Interest:**
+[[div class="blockquote"]]
+[[module ListPages name="heart-of-the-beast" limit="1"]]
+[[span class="page-header"]]**[[[heart-of-the-beast|The Heart of the Beast]]]**: The Heart of the Beast (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
+For: [[[canon-renaissance-contest|Canon Renaissance Contest]]]
 
-[[collapsible show="▸ Access files" hide="▾ Close files"]]
-[[module ListPages name="uiu-file-2017-102" limit="1"]]
-* [[[*uiu-file-2017-102|UIU File 2017-102: WHISPER IN THE WIND]]] [##green|+%%rating%%##] [Comments: %%comments%%]
-
-[[div class="indent"]]
-Requisitioned for: [[[collaboration-contest|Collab-Con]]]
-Filed with: [[*user pxdnbluesoul]]
+[[div class="blockquote"]]
+Fae shook her head. "I really don't know. But — at least we can make his last week here a happy one."
 [[/div]]
-
-> Once delivered to a host, WHISPER is capable of inspecting, modifying, and emptying the host's counters and registers at will.
-
-[[div class="indent"]]
+----
+[[div class="page-stats"]]
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
 Tags: {{%%tags%%}}
-Translations: (none)
+Translations: [http://scp-wiki-cn.wikidot.com/heart-of-the-beast CN]
 [[/div]]
 [[/module]]
-[[/collapsible]]
+[[/div]]
+[[div class="blockquote"]]
+[[module ListPages name="pumpkin-mystery" limit="1"]]
+[[span class="page-header"]]**[[[pumpkin-mystery|The Pumpkin Mystery]]]**: The Pumpkin Mystery (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
+For: [[[jam-con-2021|JamCon 2021]]]
 
-**Related Media:**
+[[div class="blockquote"]]
+Early on the morning after, residents gathered in shock before the ruins of our Civic Center, surrounded by uprooted trees and shreds of pumpkins throughout the park.
+[[/div]]
+----
+[[div class="page-stats"]]
+Written: {{%%created_at%%}}
+Last Edited: {{%%updated_at%%}} by %%updated_by%%
+Last Commented: {{%%commented_at%%}} by %%commented_by%%
+Tags: {{%%tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/pumpkin-mystery CN]
+[[/div]]
+[[/module]]
+[[/div]]
 
-[[collapsible show="▸ Access files" hide="▾ Close files"]]
-= By [[*user Rex Atlas]], featuring **SCP-4322**
-[[=image art-4322-alces.jpeg]]
+[!-- GoI Formats --]
 
-= By [[*user Aethris]], featuring **SCP-4838**
-[[=image https://i.imgur.com/Rk6SSxu.png]]
-[[/collapsible]]
+**Documents recovered from Groups of Interest:**
 
-**Project Debriefings:**
+[[div class="blockquote"]]
+[[module ListPages name="uiu-file-2017-102" limit="1"]]
+[[span class="page-header"]]**[[[uiu-file-2017-102|UIU File: 2017-102]]]**: WHISPER IN THE WIND (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
+GoI: [/system:page-tags/tag/unusual-incidents-unit#pages Unusual Incidents Unit]
+Written with: [[*user pxdnbluesoul]]
+For: [[[collaboration-contest|Collab-Con]]]
 
-[[tabview]]
-[[tab Author Commentary]]
-Some thoughts on the articles I've written. Spoilers galore.
-[[/tab]]
-[[tab SCP-4339]]
-My first scip, and an introduction for me into how much effort goes into a good mainlist article. I don't remember //exactly// how I got the idea, but it probably came out of this recent philosophy of the power semantics and (non-anomalous) memetics has over the world.
+[[div class="blockquote"]]
+Once delivered to a host, WHISPER is capable of inspecting, modifying, and emptying the host's counters and registers at will.
+[[/div]]
+----
+[[div class="page-stats"]]
+Written: {{%%created_at%%}}
+Last Edited: {{%%updated_at%%}} by %%updated_by%%
+Last Commented: {{%%commented_at%%}} by %%commented_by%%
+Tags: {{%%tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/uiu-file-2017-102 CN]
+[[/div]]
+[[/module]]
+[[/div]]
 
-As mentioned in the forums, I was inspired by the blog post [*http://ansuz.sooke.bc.ca/entry/23 "What colour are your bits?"] and [*https://www.youtube.com/watch?v=nzj7Wg4DAbs Why humans run the world | Yuval Noah Harari], both about how humans have created a powerful world of the symbolic and nonphysical. I wanted to really show how much we rely on these invisible structures of power and organization, and explore 
+[!-- Hubs --]
 
-It has really improved since its first draft, but there are still some elements I dislike. The "found by a mentally ill man" was about the only reasonable origin story I could come up with, since they had to figure out the object had interesting properties, but also not have the originator use it to take over the world. However the overall effect feels a bit like a cop out.
+**Case files:**
 
-Likewise the two incidents of researchers attempting to change things against policy are reflective of an earlier idea I had focusing more on the fact that power corrupts. The original ending was going to be a short addendum saying that the object had no compulsive or addictive effect. I've been tempted to remove the amendment incident, but I think it's necessary as a dramatic moment, both to show how damn powerful 4339 is, but also to set the scene for Archibald's "cleanup".
-[[/tab]]
-[[tab SCP-3597]]
-My second article and first contest entry! ([[[cliche-con-2019|Cliché-Con 2019]]]) I wrote the bulk of the initial draft on my flight for winter break. The idea came when I was looking through the list of clichés and saw "Mobile Task Force gets steamrolled", and tried to think a good in-universe justification for the Foundation's best agents to get completely wiped. The answer seemed simple: the anomaly itself made it so. I decided on making the recovery the emphasis of the story. D = Disposable-class was sort of a natural add-on, after all, if we're going to kill some MTFs, why not them too?
+[[div class="blockquote"]]
+[[module ListPages name="finding-asmodeus-hub" limit="1"]]
+[[span class="page-header"]]**[[[finding-asmodeus-hub|Finding Asmodeus]]]**: Finding Asmodeus (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
+For: [[[canon-renaissance-contest|Canon Renaissance Contest]]]
 
-The [DATA EXPUNGED] description was, admittedly, a bit of a gimmick, and I know it turned off at least some readers. However I was struggling to think of a good way of describing the effect without totally spoiling it and rendering the recovery logs as useless fluff. Ultimately I decided no description was better than a crappy one.
-[[/tab]]
-[[/tabview]]
+----
+[[div class="page-stats"]]
+Written: {{%%created_at%%}}
+Last Edited: {{%%updated_at%%}} by %%updated_by%%
+Last Commented: {{%%commented_at%%}} by %%commented_by%%
+Tags: {{%%tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/finding-asmodeus-hub CN], [http://ko.scp-wiki.net/finding-asmodeus-hub KO], [http://scpfoundation.net/finding-asmodeus-hub RU]
+[[/div]]
+[[/module]]
+[[/div]]
 
-**Other files:**
+    
+**Other documents:**
 * [*http://kontainer.djkakt.us/aismallard In-progress reports]
 * [*http://scpdsandbox.wikidot.com/aismallard-misc Ancillary documents]
+* [[[aismallard|Personnel file]]]
 
 **Appendix:**
 [[collapsible show="▸ Show contingency procedures" hide="▾ Close file"]]
@@ -320,12 +464,6 @@ The [DATA EXPUNGED] description was, admittedly, a bit of a gimmick, and I know 
 [[div style="display: none;"]]
 [[footnoteblock]]
 [[/div]]
-
-[!--
-When the SCP/tales list get too long, add:
-[[collapsible show="▸ Access files" hide="▾ Close files"]]
-[[/collapsible]]
---]
 
 @@@@
 @@@@
