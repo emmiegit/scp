@@ -2,7 +2,7 @@
 [[include :scp-wiki:theme:ouroborous-theme]]
 
 [[include :scp-wiki:component:anomaly-class-bar-source
-    item-number=6000 |
+    item-number=6140 |
     clearance=1 |
     container-class=keter |
     disruption-class=amida |
@@ -60,19 +60,19 @@ a[href$="offset/1"] {
 * The People's Liberation Army Paranormal Force
 * GRU Division "P"
 
-Until containment is established or the Foundation falls, MTF-Nu-7 ("Hammer Down") has been folded into JTF-Omega-100 and placed under the direct oversight of O5-6. Foundation facilities in active areas are being evacuated and replaced with contingents of JTF-Omega-100, in accordance with Deployment Plan-6000.
+Until containment is established or the Foundation falls, MTF-Nu-7 ("Hammer Down") has been folded into JTF-Omega-100 and placed under the direct oversight of O5-6. Foundation facilities in active areas are being evacuated and replaced with contingents of JTF-Omega-100, in accordance with Deployment Plan-6140.
 
-**Description:** SCP-6000 is the Daevite Empire, as described in [[[SCP-140]]], expected to fully materialize within consensus reality on March 20, 2022. SCP-140 has fully breached containment and will result in Incident 140-CK, causing SCP-6000 to manifest.
+**Description:** SCP-6140 is the Daevite Empire, as described in [[[SCP-140]]], expected to fully materialize within consensus reality on March 20, 2022. SCP-140 has fully breached containment and will result in Incident 140-CK, causing SCP-6140 to manifest.
 
 [[include component:image-block
-    name=https://scp-wiki.wikidot.com/local--files/fragment:6000contestaisstorm-0/map.png |
+    name=https://scp-wiki.wikidot.com/local--files/fragment:6140contestaisstorm-0/map.png |
     caption=Predicted territorial extent upon manifestation. |
     width=320px |
 ]]
 
-The Overseer Council has preemptively declared the event a BK-Class "Broken Masquerade" Scenario, due to the extensive use of hostile and reality-altering anomalies by SCP-6000, even into the modern day.
+The Overseer Council has preemptively declared the event a BK-Class "Broken Masquerade" Scenario, due to the extensive use of hostile and reality-altering anomalies by SCP-6140, even into the modern day.
 
-**Addendum 6000.1:** Threat Assessment
+**Addendum 6140.1:** Threat Assessment
 
 A joint working group between the Department of Analytics and the Department of Applied Force produced a report outlining the primary dangers associated with a modern-day Daevite Empire. It was based on information from SCP-140, archaeological findings, study of Daevic inscriptions and documents, and parastatistical data models.
 
@@ -80,7 +80,7 @@ A joint working group between the Department of Analytics and the Department of 
 || Ground Force ||= **##red|HIGH##** || Estimated active personnel of 2.4 million. Full access to modern equipment via purchases from foreign suppliers. ||
 || Air Force ||= **##orange|MEDIUM##** || Comparatively small but modern air force. Existence of stealth technology contested, though anomalous modification of aircraft is possible. ||
 || Navy ||= **##green|LOW##** || The controlled area is largely landlocked. ||
-|| Outside Alliances ||= **##red|HIGH##** || SCP-6000 will likely have extensive control or influence over nearby countries, far beyond its boundaries. Operations are underway to preserve geopolitical structure and prevent immediate cascade into an SK-Class "Dominance Shift" Scenario. ||
+|| Outside Alliances ||= **##red|HIGH##** || SCP-6140 will likely have extensive control or influence over nearby countries, far beyond its boundaries. Operations are underway to preserve geopolitical structure and prevent immediate cascade into an SK-Class "Dominance Shift" Scenario. ||
 || Infrastructure ||= **##red|HIGH##** || Military organs should have no difficulty transferring troops and equipment, even in the event of a multi-front war. ||
 || Espionage ||= **##teal|UNKNOWN##** || Existence of a national spy agency likely, further details about capabilities are unknown. ||
 || Humanoid Modification ||= **##orange|MEDIUM##** || Able to cause significant changes to individuals for specific purposes, tactical possibilities unknown. ||
@@ -88,9 +88,9 @@ A joint working group between the Department of Analytics and the Department of 
 || Biological Weaponry ||= **##red|HIGH##** || Historical records show highly-developed anomalous transfiguration abilities, possibility of plant or fungus-based contagion likely. ||
 || Nuclear Weaponry ||= **SEVERE** || Daevite control of nuclear weapons and ICBMs for delivery is a certainty. ||
 
-**Addendum 6000.2:** Inciting Incident
+**Addendum 6140.2:** Inciting Incident
 
-The existence of SCP-6000 is a consequence of a terminal containment breach featuring SCP-140. The original, anomalous print run of //A Chronicle of the Daevas// published by SCP-140-A consisted of 75 copies. Of these, 49 were destroyed by SCP-140's anomalous capabilities. Foundation agents were able to locate twenty copies and safely destroy them, leaving six copies remaining: SCP-140 and five additional copies outside of containment, collectively designated SCP-140-B.
+The existence of SCP-6140 is a consequence of a terminal containment breach featuring SCP-140. The original, anomalous print run of //A Chronicle of the Daevas// published by SCP-140-A consisted of 75 copies. Of these, 49 were destroyed by SCP-140's anomalous capabilities. Foundation agents were able to locate twenty copies and safely destroy them, leaving six copies remaining: SCP-140 and five additional copies outside of containment, collectively designated SCP-140-B.
 
 One of these uncontained instances was in the personal collection of Richard Bruce, 11th Earl of Elgin, a known Marshall, Carter and Dark associate. Although Bruce observed the proper protocols for handling his copy of SCP-140-B and did not allow any liquids nearby, general security on his property was lax. As a result, a group of lightly-armed anomalous individuals were able to break into his estate and steal it.
 
@@ -102,7 +102,7 @@ As best as can be determined by Foundation investigators, the ritual involved th
 
 The ritual was performed on the winter solstice[[footnote]]Defined in the ritual as symbolically equivalent to midnight.[[/footnote]] but is not expected to take full effect until the vernal equinox,[[footnote]]Likewise defined as symbolic of dawn.[[/footnote]] when the Daevite Empire will manifest in consensus reality at once.[[footnote]]Defined as awakening following a deep sleep or fugue.[[/footnote]]
 
-**Addendum 6000.3:** Foundation Briefing
+**Addendum 6140.3:** Foundation Briefing
 
 The following bulletin was sent to all Foundation personnel to brief them on the impending manifestation of SCP-140 in baseline reality.
 
@@ -134,4 +134,4 @@ From the desk of O5-1,
 Secure, Contain, Protect.
 [[/div]]
 
-= [[[/6000contestaisstorm/offset/1|ALERT. BREACH HAS BEGUN.]]]
+= [[[/scp-6140/offset/1|ALERT. BREACH HAS BEGUN.]]]

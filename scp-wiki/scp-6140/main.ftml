@@ -1,0 +1,56 @@
+[[=]]
+[[module Rate]]
+[[/=]]
+[[include :scp-wiki:component:info-ayers
+|lang=en
+|page=scp-6140
+|authorPage=https://scp-wiki.wikidot.com/aismallard
+|comments= 
+**SCP-6140:** The True Empire 
+by [[*user stormbreath]] and [[*user aismallard]] 
+ 
+For the benefit of translators and editors, here are links to the individual offset pages: 
+ 
+* **[https://scp-wiki.wikidot.com/fragment:scp-6140-0 Fragment 0]**
+* **[https://scp-wiki.wikidot.com/fragment:scp-6140-1 Fragment 1]**
+]]
+
+[[module CSS]]
+#u-author_block {
+    display: none;
+}
+[[/module]]
+
+[[module ListPages category="fragment" parent="." order="created_at" limit="1" offset="@URL|0"]]
+%%content%%
+[[/module]]
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-6139]]] | SCP-6140 | [[[SCP-6141]]] >>
+[[/=]]
+[[/div]]
+
+[[include :scp-wiki:component:license-box
+|author=aismallard and stormbreath]]
+=====
+> **Filename:** map.png
+> **Author:** aismallard
+> **License:** CC BY-SA 3.0
+> **Derivative Of:** [[[https://commons.wikimedia.org/wiki/File:BlankMap-World.svg|BlankMap-World]]] (Public Domain by Canuckguy and et al)
+
+> **Filename:** daevastan.jpg
+> **Name:** Altyn Arashan resort, Kyrgyzstan 3
+> **Author:** Adam Harangozó
+> **License:** CC BY-SA 4.0
+> **Source:** [[[https://commons.wikimedia.org/wiki/File:Altyn_Arashan_resort,_Kyrgyzstan_3.jpg|Wikimedia Commons]]]
+
+> **Filename:** scp-140-a.jpg
+> **Name:** Earl S.
+> **Author:** Gerard M. Bauer
+> **License:** CC0
+> **Source:** [[[https://commons.wikimedia.org/wiki/File:Earl_S..jpg|Wikimedia Commons]]]
+=====
+[[include :scp-wiki:component:license-box-end]]
