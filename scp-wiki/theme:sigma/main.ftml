@@ -1,0 +1,237 @@
+[[iftags +theme]]
+[[module CSS]]
+.color {
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    border: 1px solid black;
+    margin: 0.25em;
+    padding: 1em;
+}
+
+.blink {
+    text-decoration: blink;
+    -webkit-animation-name: blinker;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: cubic-bezier(1, 0, 0, 1);
+    -webkit-animation-duration: 1s;
+}
+
+.footnotes-footer {
+    display: none;
+}
+[[/module]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+= [[size 110%]]This theme is currently ##green|**ACTIVE**##.[[/size]]
+
+[[div style="border: 1px solid #ddd; padding: 1em;"]]
+
++ What this is
+
+A component that applies the [[[component:theme|Sigma-9]]] theme, the preferred choice for thousands of articles.
+
+Used by notable articles like [[[SCP-173]]], [[[SCP-682]]], [[[SCP-096]]], [[[/|main]]], and [[[SCP-7193]]] (doesn't exist yet but it'll be great trust me I just need two greenlights please)
+
+What are you waiting for? Add it today and we'll slash the price by 20%!
+[[/div]]
+
++ Usage
+
+This is a [[[theme:black-highlighter-theme|Black Highlighter]]]-based theme. So make sure to include it as well:
+
+[[div class="code"]]
+@@[[include :scp-wiki:theme:black-highlighter-theme]]@@
+@@[[include :scp-wiki:theme:sigma]]@@
+[[/div]]
+
+Then delete it because that's for nerds.
+
+[[div class="code"]]
+--@@[[include :scp-wiki:theme:black-highlighter-theme]]@@--
+@@[[include :scp-wiki:theme:sigma]]@@
+[[/div]]
+
+Actually, your wiki probably already uses Sigma-9 (that's how great it is). So delete the second line too.
+
+[[div class="code"]]
+--@@[[include :scp-wiki:theme:black-highlighter-theme]]@@--
+--@@[[include :scp-wiki:theme:sigma]]@@--
+[[/div]]
+
+Congratulations, you are now using the latest and greatest of CSS technology!
+
+-----
+
++ Theme Colors
+
+[[div_ class="color" style="background-color: #d61"]]
+Sunny-D Orange
+[[/div]]
+
+[[div_ class="color" style="background-color: #901"]]
+Sour Grapes
+[[/div]]
+
+[[div_ class="color" style="background-color: #700"]]
+Liver
+[[/div]]
+
+[[div_ class="color" style="background-color: #333"]]
+Threat Level: Black
+[[/div]]
+
+[[div_ class="color" style="background-color: #ddd; color: black"]]
+[[span class="blink"]]You have a new message[[/span]] Gray
+[[/div]]
+
++ Examples
+
+[[include component:image-block name=https://scp-wiki.wdfiles.com/local--files/component%3Atheme/logo.png|caption=SCP Foundation Logo]]
+
+A horizontal rule can be created with 4 hyphens "@@----@@" and extends across the whole page if it's not placed inside anything (e.g. a blockquote). The lines separating sections of this document are horizontal rules.
+
+----
+
+Titles can be created by putting between one and six plus "+" at the start of the line
+
+[[collapsible show="+ Titles" hide="- Titles"]]
++ King
+
+++ President
+
++++ Senator
+
+++++ Representative
+
++++++ Member of Parliament
+
+++++++ The Right Honourable Lord Mayor
+[[/collapsible]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[tabview]]
+[[tab Tabulator]]
+This is a tab view.
+[[/tab]]
+[[tab Tabulation]]
+Hey look, more text here.
+
+How quaint.
+[[/tab]]
+[[tab Long Tab]]
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+
+This is a long tab. It contains a lot of text.
+[[/tab]]
+[[tab This empty tab has a really long name for some odd reason. I wonder why? It is very strange.]]
+[[/tab]]
+[[tab Empty Tab]]
+[[/tab]]
+[[tab Empty Tab]]
+[[/tab]]
+[[tab Empty Tab]]
+[[/tab]]
+[[tab Empty Tab]]
+[[/tab]]
+[[tab Empty Tab]]
+Ha! I lied!
+[[/tab]]
+[[/tabview]]
+
+[!--
+> This is a blockquote, created by putting "> " at the start of each line.
+>
+> {{More text}}
+> -----
+> That's a horizontal rule
+>
+>> Nested blockquotes
+--]
+
+||~ This is a ||~ table ||
+||You should know || how to make these ||
+||||already[[footnote]]Unless you don't, in which case you do "{{@@|| contents || of || table ||@@}}", with "{{@@||~ name ||@@}}" for headers.[[/footnote]] ||
+
+[[div class="sexy-box"]]
+This is a sexy box. Yes, this is a real class offered by Sigma-9!
+
+It can be created using the following code:
+
+[[code]]
+[[div class="sexy-box"]]
+
+... contents ...
+
+[[/div]]
+[[/code]]
+
+Remember to add the "{{adult}}" tag to any articles you use this div on!
+[[/div]]
+
++ Testimonials
+
+> **[[*user Elenee FishTruck]] says:**
+> 
+> This should replace the current theme!
+
+> **[[*user NatVoltaic]] says:**
+> 
+> im crying
+
+> **[[*user Smapti]] says:**
+> 
+> I don't care for it. Is there any way to make the [/forum/t-766406/new-site-theme#post-1943647 classic layout] appear on my screen?
+
+> **[[*user Ellie3]] says:**
+> 
+> this is {{!important}}
+> 
+> now sigma balls
+
+> **[[*user pxdnbluesoul]] says:**
+> 
+> look guys, i kind of have a lot of stuff going on, can you just like make this work for a little while longer?
+
+> **[[*user Uncle Nicolini]] says:**
+> 
+> what a colossal waste of time
+
+[[=]]
+[[span style="font-family: verdana, arial;"]]The body font is Verdana.[[/span]]
+[[span style="font-family: BauhausLTDemi;"]]The header font is LTDemi.[[/span]]
+[[span style="font-family: 'Trebuchet MS', Trebuchet;"]]The subheader font is Trebuchet MS.[[/span]]
+[[span style="font-family: 'Andale Mono', 'Courier New', Courier;"]]The monospace font is Andale Mono.[[/span]]
+[[/=]]
+[[/iftags]]
