@@ -88,9 +88,10 @@ div.appeal {
     margin-top: 5em;
 }
 
-blockquote,
-div.blockquote {
+blockquote .inner,
+div.blockquote .inner {
     border: .0625rem dashed rgba(var(--swatch-border-color), .95);
+    box-shadow: none;
 }
 [[/module]]
 
@@ -164,7 +165,7 @@ The City's Department of Public Buildings is expected to release an official rep
 
 **Body:**
 
-[[div class="blockquote"]]
+[[div class="blockquote inner"]]
 Last week's operation was a shitshow, nobody's denying that. But we must remember who we serve.
 
 No parathreats were found, no GOC agents were exposed, and yet we're here treating this like the reconstruction of Mekhane. There's nothing sensitive or classified in this newspaper. I think the Coalition Code is clear, censorship here is illegal.
@@ -178,7 +179,7 @@ I respectfully ask that the article be permitted to circulate.
 
 **Decision:**
 
-[[div class="blockquote"]]
+[[div class="blockquote inner"]]
 [[div_ class="rejection-wrap"]]
 [[div_ class="rejection"]]
 [[div_ style="font-size: 350%;"]]
