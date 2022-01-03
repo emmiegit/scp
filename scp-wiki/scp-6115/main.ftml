@@ -38,7 +38,7 @@
 ----
 
 [[div class="scp-image-block block-center"]]
-[[image https://kaktuskontainer.wdfiles.com/local--files/pill/package.jpg]]
+[[image package.jpg]]
 [[div class="scp-image-caption" style="width: 100%;"]]
 Package containing SCP-6115 and usage instructions.
 [[/div]]
@@ -57,7 +57,7 @@ SCP-6115-1 instances are humans who have had made skin contact with the anomaly.
 Upon initial contact with SCP-6115, a thaumaturgic sympathy bond forms, causing the body's energy processing and distribution mechanism to form an alternate organ system. Safely dispelling this bond is crucial to successful neutralization.
 
 [[include component:image-block
-    name=https://kaktuskontainer.wdfiles.com/local--files/pill/phase-diagram.png |
+    name=phase-diagram.png |
     caption=Thaumaturgic phase diagram of self-limosis |
     width=250px
 ]]
@@ -86,7 +86,7 @@ Due to significant induced emesis, the SCP-6115 pamphlet notes that the generate
    float=true |
    align=right |
    width=300px |
-   url=https://kaktuskontainer.wdfiles.com/local--files/pill/sick.jpg |
+   url=sick.jpg |
    add-caption=true |
    caption=Early-stage SCP-6115-1 individual experiencing bloating and bleeding symptoms.
 ]]
@@ -101,7 +101,7 @@ Continuous vomiting also ceases around this time, due to the lack of a tradition
 
 Despite severe symptoms, SCP-6115 is not usually fatal. Only 2.7% of infectees expire, usually as a result of medical complications from old age. Use of rectal [[[scp-4470|thaumaturgic sun worm therapy]]] in combination with blood warding has proven effective in healing affected individuals. Nearly all recovered individuals regrow lost organs and return to normal health within a month.
 
-**Addendum:** Obligations under US Law
+**Addendum 6115-1:** Obligations under US Law
 
 In 2023, the American Parahealth Provider Act was passed by the US Congress and signed into law by the President. Written and sponsored by a senator from Vermont, the act requires the Foundation, as a condition of its funding from the US government, to provide medical care to all otherwise-non-anomalous US citizens and permanent residents who are experiencing negative health effects from interaction with anomalies.
 
