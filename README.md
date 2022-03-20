@@ -22,6 +22,7 @@ See also my list of [favorite SCP articles](https://ammonsmith.me/favorite-scp.h
 * [SCP-5446](https://scpwiki.com/scp-5446) - Shock Troops
 * [SCP-5871](https://scpwiki.com/scp-5871) - Retroactive Knife
 * [SCP-6140](https://scpwiki.com/scp-6140) - The True Empire (co-written with [stormbreath](https://github.com/stormbreath))
+* [SCP-6115](https://scpwiki.com/scp-6115) - The Public Option
 
 ## Tales
 * [The Heart of the Beast](https://scpwiki.com/heart-of-the-beast)
