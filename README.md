@@ -21,7 +21,7 @@ See also my list of [favorite SCP articles](https://ammonsmith.me/favorite-scp.h
 * [SCP-5134](https://scp-wiki.wikidot.com/scp-5134) - Itchy
 * [SCP-5446](https://scp-wiki.wikidot.com/scp-5446) - Shock Troops
 * [SCP-5871](https://scp-wiki.wikidot.com/scp-5871) - Retroactive Knife
-* [SCP-6000 Contest Entry](https://scp-wiki.wikidot.com/6000contestaisstorm) - The True Empire (co-written with [stormbreath](https://github.com/stormbreath))
+* [SCP-6140](https://scp-wiki.wikidot.com/scp-6140) - The True Empire (co-written with [stormbreath](https://github.com/stormbreath))
 
 ## Tales
 * [The Heart of the Beast](https://scp-wiki.wikidot.com/heart-of-the-beast)
