@@ -23,8 +23,6 @@
 **Author:** [[*user aismallard]] 
  
 **Thanks to:** KindlyTurtleClem 
- 
-= **Next:** //&//[[[SCP-4853]]]@@ @@
 ]]
 
 [[include component:anomaly-class-bar-source
@@ -39,7 +37,7 @@
 ----
 
 [[include component:image-block
-    name=http://www.scp-wiki.net/local--files/scp-4838/houses.jpeg |
+    name=https://scp-wiki.wdfiles.com/local--files/scp-4838/houses.jpeg |
     caption=Candace Harker's house (second from left), the location of the first known SCP-4838 event. |
     align=center |
     width=100%
