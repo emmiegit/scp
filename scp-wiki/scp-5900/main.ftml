@@ -111,7 +111,7 @@ Service availability during SCP-5900.
 
 The Department of Internal Security has opened an investigation. [DATA REDACTED 5/INTSEC]
 
-**Description:** SCP-5900 was an outage of PANOPTICON, lasting for three days from 2019/06/10 16:59 to 2019/06/13 21:06 UTC. During this time, surveillance satellites, Site-07 communications, intelligence processing, and IntSCPFN file sync were inoperable. The full extent and nature of the anomaly are presently unknown.
+**Description:** SCP-5900 was an outage of PANOPTICON, lasting for five days from 2022/05/19 12:15 to 2022/05/24 21:20 UTC. During this time, surveillance satellites, Site-07 communications, intelligence processing, and IntSCPFN file sync were inoperable. The full extent and nature of the anomaly are presently unknown.
 
 @@@@
 
@@ -219,11 +219,12 @@ The following is a selection of log events submitted to the Site-07 governance m
 [[div class="addendum chat"]]
 The following are selections from engineering ROMP[[footnote]]RAISA Online Messaging Platform, a extension of RFC 1459 (Internet Relay Chat Protocol) designed to exhibit resistance against infohazards and manage classified information in a secure manner.[[/footnote]] channels at Site-07 during SCP-5900.
 
-> Excerpt: Day 1, 7:53 AM (local time)
+> Excerpt: Day 1, 4:17 AM (local time)
 
-> [[span class="member3"]]<jtaylor>[[/span]] morning terry
+> [[span class="member3"]]<jtaylor>[[/span]] morning graveyard shift people
+> [[span class="member3"]]<jtaylor>[[/span]] hey terry
 > [[span class="member2"]]<tscott>[[/span]] hey, what's up
-> [[span class="member3"]]<jtaylor>[[/span]] slept okay, you?
+> [[span class="member3"]]<jtaylor>[[/span]] got a bit of a headache, you?
 > = [[span class="member5"]]rhill[[/span]] uploaded file: [[span class="click"]]1560131817.jpg ⬇[[/span]]
 > [[span class="member2"]]<tscott>[[/span]] pffft
 > [[span class="member4"]]<lgonzales>[[/span]] made me almost spurt coffee out of my nose lol
@@ -262,7 +263,7 @@ The following are selections from engineering ROMP[[footnote]]RAISA Online Messa
 
 ----
 
-> Excerpt: Day 1, 8:26 AM
+> Excerpt: Day 1, 6:41 AM
 
 > [[span class="member3"]]<jtaylor>[[/span]] all right, so here's how management has decided to set this up
 > [[span class="member3"]]<jtaylor>[[/span]] team A will look through the broken services
@@ -325,7 +326,7 @@ The following are selections from engineering ROMP[[footnote]]RAISA Online Messa
 
 ----
 
-> Excerpt: Day 3, 2:11 AM
+> Excerpt: Day 6, 1:08 PM
 
 > [[span class="member3"]]<jtaylor>[[/span]] The administrative liaison is saying you can formulate a new thaumic unit, but it can't be overlapping with the originals
 > [[span class="member4"]]<lgonzales>[[/span]] wtf? my plan doesn't, it attaches to uniq-418ef and uniq-0a341
@@ -390,13 +391,15 @@ List of names:
 ----
 [[collapsible hideLocation="both" show="▶OPEN ADDENDUM◀" hide="▷CLOSE◁"]]
 [[div class="addendum"]]
-Critical services began recovering at 2019/06/13 11:32 UTC, after which the PANOPTICON metaphysical anchoring system automatically recalibrated itself. An inspection discovered an unusual HTML payload in one of the anchor's logs. A screenshot has been attached below:
+Critical services began recovering at 2022/05/24 21:09 UTC, after which the PANOPTICON metaphysical anchoring system automatically recalibrated itself. An inspection discovered unusual HTML payloads in the logs of each anchor's backup system. A screenshot has been attached below:
 
 [[div_ class="aligncenter" style="border: 1px solid #999;"]]
 [[image ;-).png]]
 [[/div]]
 
-The origin and meaning of this notice is unclear. Investigation is ongoing.
+The origin and meaning of these notices are unclear. The message was identical in all anchors save for R-27091 (the instance associated with Eastern Europe) where all data was found to be corrupted.
+
+Investigation is ongoing.
 [[/div]]
 [[/collapsible]]
 
