@@ -391,15 +391,13 @@ List of names:
 ----
 [[collapsible hideLocation="both" show="▶OPEN ADDENDUM◀" hide="▷CLOSE◁"]]
 [[div class="addendum"]]
-Critical services began recovering at 2022/05/24 21:09 UTC, after which the PANOPTICON metaphysical anchoring system automatically recalibrated itself. An inspection discovered unusual HTML payloads in the logs of each anchor's backup system. A screenshot has been attached below:
+Critical services began recovering at 2022/05/24 21:09 UTC, after which the PANOPTICON metaphysical anchoring system automatically recalibrated itself. An inspection discovered an unusual HTML payload in one of the anchor's logs. A screenshot has been attached below:
 
 [[div_ class="aligncenter" style="border: 1px solid #999;"]]
 [[image ;-).png]]
 [[/div]]
 
-The origin and meaning of these notices are unclear. The message was identical in all anchors save for R-27091 (the instance associated with Eastern Europe) where all data was found to be corrupted.
-
-Investigation is ongoing.
+The origin and meaning of this notice is unclear. Investigation is ongoing.
 [[/div]]
 [[/collapsible]]
 
