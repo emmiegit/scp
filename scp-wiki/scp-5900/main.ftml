@@ -1,6 +1,6 @@
 [[include theme:black-highlighter-theme]]
-[[include theme:redtape years=35]]
 [[include component:rso]]
+[[include theme:redtape years=35]]
 [[include :smlt:mrpines:discord-include]]
 
 [[module CSS]]
