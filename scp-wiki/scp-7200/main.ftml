@@ -92,52 +92,56 @@
 }
 [[/module]]
 
-[[image thumbnail.jpg class="crom-thumbnail" style="display: none"]]
+[[div style="display: none"]]
+[[include component:image-block
+    name=https://scp-wiki.wdfiles.com/local--files/scp-7200/thumbnail.jpg
+]]
+[[/div]]
 
 [[>]]
 [[module Rate]]
 [[/>]]
 
-**Item #:** SCP-7000
+**Item #:** SCP-7200
 
 **Object Class:** Keter
 
 **Special Containment Procedures:** Mobile Task Force Theta-5 ("The Bigger Boat") is to be dispatched to investigate any disappearances of registered merchant ships and to propose cover stories as appropriate. Any emitted radio signals are to be suppressed using standard procedures.
 
-__Update 2022/07/04:__ Project Convenient Flag has been implemented and is demonstrating promising results. Reclassification to Euclid and updates to containment procedures are pending final review by the Containment Committee. (See Addendum 7000-3)
+__Update 2022/07/04:__ Project Convenient Flag has been implemented and is demonstrating promising results. Reclassification to Euclid and updates to containment procedures are pending final review by the Containment Committee. (See Addendum 7200-3)
 
-**Description:** SCP-7000 is an anomalous phenomenon causing the disappearances of non-military ships in international waters.
+**Description:** SCP-7200 is an anomalous phenomenon causing the disappearances of non-military ships in international waters.
 
-When a vessel is affected by SCP-7000, it unexpectedly changes heading and increases speed, occasionally dumping cargo to do so. All attempts to hail or remotely operate the vessel have failed.
+When a vessel is affected by SCP-7200, it unexpectedly changes heading and increases speed, occasionally dumping cargo to do so. All attempts to hail or remotely operate the vessel have failed.
 
 Typically, shortwave radio transmissions are also found originating from the ship, containing a vocalization described by listeners as an unpleasant shrieking sound. Memetic analysis does not find the audio signal to be anomalous, but notes that there may be possible cognitohazardous properties which are not preserved over radio. 
 
 Several hours into the event, the ship's transponder turns off. Past this point, no vessel has been detectable through any known means and is effectively unrecoverable.
 
-In the first year since the anomaly's emergence in April 2016, the likelihood of an SCP-7000 event affecting a vessel was approximately 0.006% / year. Since then, the probability has been steadily increasing, measured most recently at 0.072% / year in December 2021.
+In the first year since the anomaly's emergence in April 2016, the likelihood of an SCP-7200 event affecting a vessel was approximately 0.006% / year. Since then, the probability has been steadily increasing, measured most recently at 0.072% / year in December 2021.
 
 [[div class="comparison-images"]]
 [[tabview]]
 [[tab Discovery]]
 [[include component:image-block
-    name=https://scp-wiki.wdfiles.com/local--files/7000contestaismlt/boats_a.svg |
-    caption=SCP-7000 occurrences during 2016. |
+    name=https://scp-wiki.wdfiles.com/local--files/scp-7200/boats_a.svg |
+    caption=SCP-7200 occurrences during 2016. |
     align=center |
     width=100%
 ]]
 [[/tab]]
 [[tab Current]]
 [[include component:image-block
-    name=https://scp-wiki.wdfiles.com/local--files/7000contestaismlt/boats_b.svg |
-    caption=SCP-7000 occurrences during 2021. |
+    name=https://scp-wiki.wdfiles.com/local--files/scp-7200/boats_b.svg |
+    caption=SCP-7200 occurrences during 2021. |
     align=center |
     width=100%
 ]]
 [[/tab]]
 [[tab Projected]]
 [[include component:image-block
-    name=https://scp-wiki.wdfiles.com/local--files/7000contestaismlt/boats_c.svg |
-    caption=SCP-7000 occurrences projected for 2026. |
+    name=https://scp-wiki.wdfiles.com/local--files/scp-7200/boats_c.svg |
+    caption=SCP-7200 occurrences projected for 2026. |
     align=center |
     width=100%
 ]]
@@ -145,14 +149,14 @@ In the first year since the anomaly's emergence in April 2016, the likelihood of
 [[/tabview]]
 [[/div]]
 
-**Addendum 7000-1:** Containment Attempts
+**Addendum 7200-1:** Containment Attempts
 
 [[div_ class="attempt-box__header attempt-box__header--failure"]]
 [[span]]CODENAME: Side Eye[[/span]]
 [[span]]**FAILURE**[[/span]]
 [[/div]]
 [[div class="attempt-box__content attempt-box__content--failure"]]
-**Summary:** Place sensors aboard 20,000 merchant vessels to continually report anomalous activity, and attempt to determine the cause of SCP-7000.
+**Summary:** Place sensors aboard 20,000 merchant vessels to continually report anomalous activity, and attempt to determine the cause of SCP-7200.
 
 **Result**: Sensor data from lost ships is inconclusive. Following the loss of the vessel, the sensors cease to report further information.
 [[/div]]
@@ -164,7 +168,7 @@ In the first year since the anomaly's emergence in April 2016, the likelihood of
 [[div class="attempt-box__content attempt-box__content--failure"]]
 **Summary:** Recruit and train E-class personnel aboard 100 merchant vessels, with equipment for navigating a number of different anomalous environments.
 
-**Result**: 18 ships with personnel are lost in SCP-7000 events, yielding no new information. Operation is aborted.
+**Result**: 18 ships with personnel are lost in SCP-7200 events, yielding no new information. Operation is aborted.
 [[/div]]
 
 [[div_ class="attempt-box__header attempt-box__header--failure"]]
@@ -172,12 +176,12 @@ In the first year since the anomaly's emergence in April 2016, the likelihood of
 [[span]]**FAILURE**[[/span]]
 [[/div]]
 [[div class="attempt-box__content attempt-box__content--failure"]]
-**Summary:** Ships from the Foundation Navy (disguised as various nations' militaries) escort high-value container ships, with orders to intervene during an SCP-7000 event.
+**Summary:** Ships from the Foundation Navy (disguised as various nations' militaries) escort high-value container ships, with orders to intervene during an SCP-7200 event.
 
-**Result**: Two incidents occur wherein a container ship is subject to an SCP-7000 event while in the presence of the Foundation Navy:
+**Result**: Two incidents occur wherein a container ship is subject to an SCP-7200 event while in the presence of the Foundation Navy:
 
 # The compromised ship suddenly makes a sharp turn in front of the Navy vessel. The vessel manages to avoid a collision, but numerous shipping containers fall and land on the Navy vessel, damaging it. The vessel is unable to sustain a chase and the container ship escapes.
-# Two Navy vessels are straddling both sides of the container ship, which then undergoes the SCP-7000 event. Foundation vessels give chase for two hours. The vessels then adopt a strategy of attempting to damage the compromised ship's navigational and propulsion capabilities, with limited success. After eleven further hours of continued pursuit, the ship escapes despite serious hull damage.
+# Two Navy vessels are straddling both sides of the container ship, which then undergoes the SCP-7200 event. Foundation vessels give chase for two hours. The vessels then adopt a strategy of attempting to damage the compromised ship's navigational and propulsion capabilities, with limited success. After eleven further hours of continued pursuit, the ship escapes despite serious hull damage.
 [[/div]]
 
 [[div_ class="attempt-box__header attempt-box__header--failure"]]
@@ -185,9 +189,9 @@ In the first year since the anomaly's emergence in April 2016, the likelihood of
 [[span]]**FAILURE**[[/span]]
 [[/div]]
 [[div class="attempt-box__content attempt-box__content--failure"]]
-**Summary:** 50 unmanned merchant vessels are purchased, loaded with conventional explosives and limited paranormal weaponry, and deployed across the ocean. Ship computers are programmed to detect an SCP-7000 event, and attempt to locate and destroy any anomalous objects present.
+**Summary:** 50 unmanned merchant vessels are purchased, loaded with conventional explosives and limited paranormal weaponry, and deployed across the ocean. Ship computers are programmed to detect an SCP-7200 event, and attempt to locate and destroy any anomalous objects present.
 
-**Result**: One such prepared vessel undergoes an SCP-7000 event. It then immediately fires all its weapons directly overhead, causing severe damage and resulting in the ship capsizing. Rescue teams are unable to prevent the vessel from sinking. Remaining vessels are quickly recalled.
+**Result**: One such prepared vessel undergoes an SCP-7200 event. It then immediately fires all its weapons directly overhead, causing severe damage and resulting in the ship capsizing. Rescue teams are unable to prevent the vessel from sinking. Remaining vessels are quickly recalled.
 [[/div]]
 
 [[div_ class="attempt-box__header attempt-box__header--restricted"]]
@@ -208,23 +212,23 @@ In the first year since the anomaly's emergence in April 2016, the likelihood of
 **Result**: Loss of commercial vessels has been steadily declining over the implementation period.
 [[/div]]
 
-**Addendum 7000-2:** Project Convenient Flag
+**Addendum 7200-2:** Project Convenient Flag
 
 The Foundation External Affairs and Intelligence Agency, after negotiation with the Panama Maritime Authority, established a special "SCPF" designation for a class of merchant ships registered in Panama. This class is available for containment use only, and have relaxed requirements for vessel size, shape, and build quality.
 
-As part of SCP-7000 containment operations, the Foundation has established four facilities in Panama (one registration depot, one hatchery, two farms), with a combined approximate area of 150,000 m^^2^^. The fish production facilities are capable of raising tens of millions of oceanic fish annually.
+As part of SCP-7200 containment operations, the Foundation has established four facilities in Panama (one registration depot, one hatchery, two farms), with a combined approximate area of 150,000 m^^2^^. The fish production facilities are capable of raising tens of millions of oceanic fish annually.
 
-Within the registration depot, Foundation maritime inspectors oversee the registration of SCPF-class merchant vessels. Due to the specific nature of this class, many steps in the [wikipedia:Ship_registration registration of conventional merchant ships] do not apply. For instance, ships have no requirement for safety or construction certificates due to their small size. As SCPF-class vessels lack equipment for radio transmissions, signal suppression is unnecessary during SCP-7000 events.
+Within the registration depot, Foundation maritime inspectors oversee the registration of SCPF-class merchant vessels. Due to the specific nature of this class, many steps in the [wikipedia:Ship_registration registration of conventional merchant ships] do not apply. For instance, ships have no requirement for safety or construction certificates due to their small size. As SCPF-class vessels lack equipment for radio transmissions, signal suppression is unnecessary during SCP-7200 events.
 
 At maturity, fish are transported from farm facilities into the registration depot. In accordance with international maritime law, a Panamanian flag and the respective ship registration number are applied onto each fish. Upon confirming the vessel's seaworthiness, the acting maritime inspector clears the fish for release into the open ocean.
 
-**Addendum 7000-3:** Current Situation
+**Addendum 7200-3:** Current Situation
 
-SCP-7000 events have continued to increase in frequency. However, due to the implementation of Project Convenient Flag, more than 99.98% of merchant vessels in international waters are SCPF-class, which has reduced the disappearance of civilian ships to less than 0.3 vessels / year.
+SCP-7200 events have continued to increase in frequency. However, due to the implementation of Project Convenient Flag, more than 99.98% of merchant vessels in international waters are SCPF-class, which has reduced the disappearance of civilian ships to less than 0.3 vessels / year.
 
 [[div class="footer-wikiwalk-nav"]]
 [[=]]
-<< [[[SCP-6999]]] | SCP-7000 | [[[SCP-7001]]] >>
+<< [[[SCP-7199]]] | SCP-7200 | [[[SCP-7201]]] >>
 [[/=]]
 [[/div]]
 
