@@ -408,6 +408,22 @@ The origin and meaning of this notice is unclear. Investigation is ongoing.
 
 [[footnoteblock]]
 
+[[div class="rnb-navbar"]]
+[[div class="rnb-item rnb-last"]]
+[[a href="/scp-6781" style="display: block;"]][[span class="rnb-supertitle"]]PREVIOUS[[/span]]
+<< SCP-6781: HERITAGE >>[[/a]]
+[[/div]]
+
+[[div class="rnb-item rnb-current site7nav"]]
+SITE-7
+[[/div]]
+
+[[div class="rnb-item rnb-next"]]
+[[a href="/tempest" style="display: block;"]][[span class="rnb-supertitle"]]NEXT[[/span]]
+<< TEMPEST >>[[/a]]
+[[/div]]
+[[/div]]
+
 [[include component:wikimodule |normal= --]]]
 
 [[div class="footer-wikiwalk-nav"]]
