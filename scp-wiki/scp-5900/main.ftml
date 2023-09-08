@@ -1,6 +1,6 @@
 [[include theme:black-highlighter-theme]]
 [[include component:rso]]
-[[include theme:redtape years=35]]
+[[include theme:redtape years=21]]
 [[include :smlt:mrpines:discord-include]]
 
 [[module CSS]]
@@ -71,9 +71,9 @@
 [[/>]]
 
 [[include component:info-ayers
-    lang=EN |
+    lang=en |
     page=scp-5900 |
-    authorPage=http://www.scp-wiki.net/aismallard |
+    authorPage=https://scpwiki.com/aismallard |
    comments= 
 **SCP-5900:** PITCHBLACK  
 **Author:** [[*user aismallard]] 
