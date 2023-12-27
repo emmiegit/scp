@@ -71,7 +71,7 @@ div.rejection {
 
 div.rejection-wrap {
      transform: rotate(-3.8deg);
-     width: 35vw;
+     width: 25vw;
      margin-bottom: 1em;
      margin-left: 3em;
 }
@@ -192,3 +192,13 @@ REMOVED FOR SECURITY REASONS
 [[/div]]
 
 [[/div]]
+
+[[include :scp-wiki:component:license-box]]
+=====
+> **Filename:** wreckage.jpeg
+> **Name:** 2020aug-derecho-tornado-damage-Kendall-Will-County-Illinois.jpg
+> **Author:** NWS Survey
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:2020aug-derecho-tornado-damage-Kendall-Will-County-Illinois.jpg Wikimedia Commons]
+=====
+[[include :scp-wiki:component:license-box-end]]
