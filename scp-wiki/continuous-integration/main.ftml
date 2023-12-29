@@ -1,0 +1,194 @@
+[[include theme:black-highlighter-theme]]
+
+[[include info:start]]
+**Continuous Integration**
+**Author:** [[*user aismallard]] ([[[aismallard|Author Page]]])
+
+Gift for [[*user Jakdragonx]] for [/forum/t-16456604/12th-annual-art-exchange Art Exchange 2023].
+
+Thanks to [[*user Tufto]] for critique!
+[[include info:end]]
+
+[[div class="blockquote"]]
+{{##red|SIMULACRUM Core## (df237de74d39) is starting up.}}
+{{Current time: 2112/05/17 14:27 UTC}}
+{{Loading hypervisor (1.92.0-jenkins)@@...@@ done}}
+{{Loading configuration (sconf3-df237de74d39)@@...@@ done}}
+{{Loading modules@@...@@ 517 loaded}}
+{{Performing coherency checks@@...@@ OK}}
+{{Starting services@@...@@ 283 started}}
+{{Starting AICs@@...@@ 63 started}}
+{{Starting AIC stubs@@...@@ 120 started}}
+{{Final bootstrap checks@@...@@ OK}}
+
+{{**Welcome to ##red|SIMULACRUM##!**}}
+{{You are running in script mode. For information, run ##darkred|<SIMUL HELP MSCRIPT>## in a Foundation terminal.}}
+
+[# (+) 12135 lines collapsed]
+
+[[div class="blockquote"]]
+{{##red|SIMULACRUM Scenario## (df237de74d39-000139) is starting up.}}
+{{Current time: 2112/05/17 14:39 UTC}}
+{{Loading scenario data ##green|dzq_21120517_551089653001##@@...@@ done}}
+{{Requesting 194600 compute units from Core@@...@@ allocated}}
+{{Beginning simulation! Hold onto your hats!}}
+
+{{Connected players: 276,944,209}}
+{{Loaded objects: 3,479,549,802,307,076}}
+
+> {{##blue|COMMAND.aic## says:}}
+> {{I am currently running in both observation and reporting mode. Log filter mode is "INFRA".}}
+> {{Failure threshold is set at 0.39, expected spurious failure rate is at 0.06.}}
+> {{If you are experiencing elevated spurious failure rates, consult ##darkred|<SIMUL HELP SCENTEST FAILOK>##.}}
+
+{{Environment status: ok_ld3_pool}}
+{{Scenario status: healthy}}
+
+{{Haptic register too high? 193 > 190}}
+{{Haptic register too high? 193 > 190}}
+{{Haptic register too high? 191 > 190}}
+
+[# (+) 270 lines collapsed]
+
+> {{##blue|CHAOS.aic## (mocked) says:}}
+> {{Killing worker swo-0IG18VXM. (Scheme: test_resil_interpod_vhcomm_recov)}}
+
+{{Worker swo-0IG18VXM (p2-7ZI6L) has died. Cause: SIGKILL.}}
+{{Worker swo-QU4MHLZX (p2-7ZI6L) has been spawned.}}
+{{Worker swo-QU4MHLZX (p2-7ZI6L) has died. Cause: Unable to open neurostream.}}
+{{Worker swo-ABVVNL6H (p2-7ZI6L) has been spawned.}}
+{{Worker swo-ABVVNL6H (p2-7ZI6L) has died. Cause: Unable to open neurostream.}}
+{{Worker swo-HJ26MROU (p2-7ZI6L) has been spawned.}}
+{{Worker swo-HJ26MROU (p2-7ZI6L) has died. Cause: Unable to open neurostream.}}
+{{Pod p2-7ZI6L is now unhealthy.}}
+
+> {{##blue|COMMAND.aic## says:}}
+> {{Attempting intervention to avoid crashloop. Instructing pod p2-7ZI6L to use fallback image.}}
+
+{{Pod p2-7ZI6L is loading image pzi_21120517_90473.}}
+{{Pod p2-7ZI6L is now healthy.}}
+
+> {{##blue|COMMAND.aic## says:}}
+> {{Fallback succeeded, flagging current code as buggy.}}
+> {{Fallback ID is 8a50b2dd-58cc-4d61-9062-6d416afe1128. Execution continues.}}
+> {{Note: This will cause the current build to marked as failing!}}
+
+> {{##blue|AGILITY.aic## (mocked) says:}}
+> {{Performing environment entity tests...}}
+> [# (+) 229 lines collapsed]
+> {{Nature data for zgh_bird4 is OK.}}
+> {{Nature data for zgh_bird5 is OK.}}
+> {{Nature data for zgh_caribou is loading...}}
+
+{{Worker swo-JX2ZDWLY (p2-MGU81) has reported an error: ##teal|Cannot load retina data for instance MALE_CARIBOU_009.##}}
+{{Worker swo-6G2NV0XF (p2-MGU81) has reported an error: ##teal|Cannot load retina data for instance MALE_CARIBOU_023.##}}
+[# (+) 12 similar entries collapsed]
+
+{{Pod p2-MGU81 is unhealthy.}}
+
+> {{##blue|AGILITY.aic## says:}}
+> {{Nature data for zgh_caribou is corrupt. Expected hash ##green|d39eac7d20fd6fe09ab98900494a74509383558f##, got ##red|ebb6e8d938771199e81bbd3b20b3729974b37ad6##!}}
+
+{{Connection loss from fragmentation recovered. (latency < 0.1067)}}
+
+{{Sector SEC-3Q6MT cannot load neural imaging data! Players may not be able to see.}}
+
+> {{##blue|COMMAND.aic## says:}}
+> {{Attempting to quarantine SEC-3Q6MT.}}
+> {{Currently affected players: 2,107,610.}}
+> 
+> {{Reporting incident as ##maroon|INCI-000001## [local].}}
+> {{Disruption class: Keneq}}
+> {{NOTE: Details about this incident will be attached to CI/CD logs.}}
+
+{{Sector SEC-3Q6MT neighbors (SEC-3Q6MU, SEC-3Q6NO, and 12 others) are reporting similar errors.}}
+
+> {{##blue|CORRELATION.aic## says:}}
+> {{Fallback image pzi_21120517_90473 is flagged as OK_BACKCOMPAT for this version, but appears to be causing additional errors.}}
+> {{Advising shutdown of poisoned nodes. Programmer intervention is likely needed.}}
+
+> {{##blue|COMMAND.aic## says:}}
+> {{Considering CORRELATION.aic advice.}}
+> {{Attempting quarantine of SEC-3Q6MT and 31 neighbors.}}
+> {{Currently affected players: 14,387,202.}}
+
+> {{##blue|MONITOR.aic## says:}}
+> {{Server cluster asia_sw_27 is reporting connectivity issues (17 networks)}}
+> {{Server cluster asia_sw_31 is reporting connectivity issues (2 networks)}}
+
+> {{##blue|CHAOS.aic## (mocked) says:}}
+> {{Incident ##maroon|INCI-000001## is ongoing. Pausing chaos engineering schemes.}}
+
+> {{##blue|COMMAND.aic## says:}}
+> {{Human players (mocked) are reporting vision problems.}}
+> {{Human players (mocked) are reporting excessive bleeding.}}
+> {{Human players (mocked) are reporting missing organs.}}
+> {{Upgrading ##maroon|INCI-000001## to disruption: Ekhi.}}
+> {{NOTE: Details about this incident will be attached to CI/CD logs.}}
+
+> {{##blue|COMMAND.aic## says:}}
+> {{##darkred|failtrigger_human_death## activated. Further simulation is cancelled. Please fix the above errors before trying again!}}
+> 
+> {{Incident ##maroon|INCI-000001## is still ongoing. Automated recovery systems have been unsuccessful.}}
+> 
+> {{Origin of incident appears to be: ##teal|Chaos kill of nm3_vhcomm worker (scheme: test_resil_interpod_vhcomm_recov)##.}}
+> {{📎 Attaching relevant logs to report CI-df237de74d39.}}
+
+{{Cleaning up execution state@@...@@}}
+{{Shutting down@@...@@}}
+[[/div]]
+
+{{Build ran in 12 minutes 45 seconds.}}
+{{##red|Build failed.## See above.}}
+{{Shutting down SIMULACRUM@@...@@}}
+
+[# (+) 12 lines collapsed]
+[[/div]]
+
+----
+
+Intern Brian Davies threw up his hands.
+
+"It's still failing? I reran it twice already."
+
+While she wasn't his manager, Researcher Green had taken him under her wing. Seeing his frustration, she went over to take a look.
+
+"What's wrong?"
+
+He pointed.
+
+"You can't just rerun it until it passes. This isn't a web server, this is core infrastructure that powers the life and livelihood of two billion humans."
+
+"Okay. Yeah. But why is it failing? All my local instances run fine. It's just an upgrade to the neural connector library, I thought it'd be simple."
+
+"Code is very complicated, so many interactions. Here," she sat down next to him, "imagine you're an engineer, designing a bike, right? You want to avoid moving parts because complicated interactions, wear and tear, and the rest. So the frame is sturdy, the handlebars can move but only on one axis, the wheels also turn in their own axis."
+
+He nodded.
+
+"Computers aren't like that. Every instruction can change the state. //All// of it is moving parts. That's why we have all our massive test infrastructure."
+
+"I still don't get why this is happening to me though. I already ran it myself, did the normal tests, nothing is weird. But I run this big thing and it's complaining about caribou."
+
+"That's probably a red herring. Look, this huge thing, it's a simulation inside our SIMULACRUM development cluster. It simulates a version of the real world, with all the server farms and everything, and then on those servers, it runs your SIMULACRUM instance. Which then runs each test scenario. Because that's what's happening in the real world, we want to be able to test for actual cross-network interactions. And then all the gazillions of simulated players and objects inside and their interactions. I've caught lots of bugs that never made it to hurt real people."
+
+He didn't seem impressed.
+
+She changed tracks. "Okay. When you run those tests, it is taking //real scenarios// done by //real people// in the //actual SIMULACRUM production cluster//, and replays them. Then it checks that they don't produce any errors or weird behavior. //Then// it simulates every manner of issue, network interruption, disk failure, memetic corruption, and ensures your changes can handle it. We are simulating a simulation of a //slice of reality// so you can feel confident that your new code is solid."
+
+Davies paused. //That's// what all that log spam was about?
+
+"So how do I fix my issue?"
+
+"Well, have you looked at the logs?"
+
+"Uh, no. How do I see it?"
+
+"Here, look. You see this? If I had to guess you aren't checking the packet processor type. There's more than just the, uh, B3-neura one. Check the docs, I think it shouldn't be too bad." She pointed to a link on his terminal.
+
+As she stirred her coffee, Davies opened the page and began looking through. She was right, he had skipped several kinds, anyone with those peripherals wouldn't have been able to create a stable connection, or, actually, any connection at all. Then because of that, the entity simulators were failing to load, and pools were...
+
+"Fuck. I should've checked for this."
+
+Researcher Green smiled. "Nah. Cheer up kid, that's what tests are for. You didn't do anything wrong, it's not like your change actually knocked out ten million people's spinal cords, it was just a simulation."
+
+He wasn't sure how to feel about that.
