@@ -92,11 +92,8 @@
 }
 [[/module]]
 
-[[div style="display: none"]]
-[[include component:image-block
-    name=https://scp-wiki.wdfiles.com/local--files/scp-7200/thumbnail.jpg
-]]
-[[/div]]
+[!-- Crom embed thumbnail --]
+[[image thumbnail.jpg class="crom-thumbnail" style="display: none"]]
 
 [[>]]
 [[module Rate]]
