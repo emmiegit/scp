@@ -1,0 +1,247 @@
+[[include :scp-wiki:theme:creepypasta]]
+
+[[>]]
+[[module Rate]]
+[[/>]]
+
+[[module css]]
+#page-title {
+    display: none;
+}
+
+.feature-block {
+    height: 230px;
+}
+.feature-block .panel-body {
+    height: 160px;
+    overflow-y: hidden;
+}
+.feature-block .feature-title {
+    font-size: 120%;
+    font-weight: bold;
+}
+.feature-block .feature-subtitle {
+    font-size: 90%;
+}
+
+.feature-block .feature-title > p,
+.feature-block .feature-subtitle > p {
+    margin: 0;
+}
+
+.news-block .panel-body {
+    padding: 0;
+}
+.news-block .panel-body .alternate {
+    padding: 5px 10px;
+}
+}
+.news-block .news-title {
+    font-weight: bold;
+    font-size: 110%;
+    margin-bottom: 5px;
+}
+.news-block .news-content {
+    margin: 5px 0;
+}
+.news-block .news-title > p,
+.news-block .news-content > p {
+    margin: 0;
+}
+
+.content-panel p {
+    padding: 0 0.75em;
+}
+
+div.content-panel.centered.standalone p span  {
+    line-height: 1;
+}
+
+/* Override sigma styling */
+
+.content-panel,
+.content-panel.standalone {
+     border: solid 1px var(--bg-light);
+     background-color: var(--bg);
+}
+
+.content-panel .panel-body {
+     border-bottom: solid 1px var(--bg-light);
+     background: var(--bg-dark);
+}
+
+.alternate:nth-child(even) {
+    background-color: var(--bg-dark);
+}
+[[/module]]
+
+[[=]]
+[[div class="unmargined"]]
+Welcome to the
+[[/div]]
+[[div class="unmargined" style="font-size: 400%; font-weight: bold; margin: 2px 0 5px;"]]
+PARAWATCH WIKI
+[[/div]]
+[[div class="unmargined"]]
+Information here concerns the supernatural and may not be suitable for all ages.
+Proceed with caution.
+[[/div]]
+[[/=]]
+
+[[div class="content-panel centered standalone"]]
+Join our IRC channel, #parawatch!
+[[[chat-guide|Instructions for connecting to Synirc]]].
+
+We hold weekly chill zones on Thursdays at 8 PM EST to hang out and discuss the paranormal. Remember to read the chat rules before connecting!
+[[/div]]
+
+[[div class="content-panel centered standalone"]]
+Welcome to Parawatch - OFFICIALLY LIVE!
+
+Parawatch is the world's first serious community dedicated to collecting definitive proof of cryptids, the supernatural, extraterrestrial life, and other anomalies science cannot explain. We are OFFICIALLY LIVE! Come check out our first articles below, follow the "discuss" links to comment on the research, and spread the news with #ParawatchWiki!
+[[/div]]
+
+[[div class="feature-block"]]
+[[div class="content-panel left-column"]]
+[[div class="panel-heading"]]
+Forum Thread: Parawatch
+[[/div]]
+[[div class="panel-body"]]
+[[div class="feature-title"]]
+**1.** [[[This Is How We Build Revelation]]]
+[[/div]]
+[[div class="feature-subtitle"]]
+by [[user SoullessSingularity]]
+[[/div]]
+
+//"You saved my life," she stated, almost accused. "You said you needed me to make this. To keep going."//
+
+[[/div]]
+[[div class="panel-footer"]]
+[/forum/t-13816590/this-is-how-we-build-revelation Discussion]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel right-column"]]
+[[div class="panel-heading"]]
+External Link: Twitter
+[[/div]]
+[[div class="panel-body"]]
+[[div class="feature-title"]]
+**2.** [[[let-the-factory-fail | #LetTheFactoryFail]]]
+[[/div]]
+[[div class="feature-subtitle"]]
+by [[user The Great Hippo]]
+[[/div]]
+
+//These "stories" of unborn children sacrificed to the Factory for material success is the sort of unsubstantiated dreck we've all come to expect from the left-wing media.//
+
+[[/div]]
+[[div class="panel-footer"]]
+[/forum/t-13816559/let-the-factory-fail Discussion]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel left-column"]]
+[[div class="panel-heading"]]
+Forum Thread: Cryptid Hunting
+[[/div]]
+[[div class="panel-body"]]
+[[div class="feature-title"]]
+**3.** [[[Asmodeus]]]
+[[/div]]
+[[div class="feature-subtitle"]]
+by [[user UraniumEmpire]]
+[[/div]]
+
+//Regardless, nobody can dispute Asmodeus's existence these days. With a multitude of photos, testimony, and carnage in Asmodeus's wake, it's an undeniable fact that a dragon has found its way into our humble home.//
+
+[[/div]]
+[[div class="panel-footer"]]
+[/forum/t-13809743/asmodeus Discussion]
+[[/div]]
+[[/div]]
+
+[[div class="content-panel right-column"]]
+[[div class="panel-heading"]]
+External Link: Wilson's Wildlife Solutions
+[[/div]]
+[[div class="panel-body"]]
+[[div class="feature-title"]]
+**4.** [[[heart-of-the-beast | The Heart of the Beast]]]
+[[/div]]
+[[div class="feature-subtitle"]]
+by [[user aismallard]]
+[[/div]]
+
+//Fae shook her head. "I really don't know. But -- at least we can make his last week here a happy one."//
+
+[[/div]]
+[[div class="panel-footer"]]
+[/forum/t-13816564/heart-of-the-beast Discussion]
+[[/div]]
+[[/div]]
+[[/div]]
+
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+
+[[div class="news-block content-panel"]]
+[[div class="panel-heading"]]
+News
+[[/div]]
+[[div class="panel-body"]]
+
+[[div class="alternate unmargined"]]
+[[div class="news-title"]]
+June 19, 2020
+[[/div]]
+[[div class="news-content"]]
+
+Announcing the [# Six Days of Para-Hacking]! Join us to talk about paranormal intrusion of electronics, and how to keep your devices safe. No technical experience necessary!
+
+[[/div]]
+[[/div]]
+
+[[div class="alternate unmargined"]]
+[[div class="news-title"]]
+Mar 07, 2020
+[[/div]]
+[[div class="news-content"]]
+
+If you're having issues logging into Wikidot, use the [[[parawatch-hub|http://parawatch.wikidot.com/]]] link instead! We've tried getting in contact with Wikidot but they haven't gotten back to us.
+
+[[/div]]
+[[/div]]
+
+[[div class="alternate unmargined"]]
+[[div class="news-title"]]
+Oct 12, 2019
+[[/div]]
+[[div class="news-content"]]
+
+You can now use Parawatch on mobile! Thanks to user 🗿**[[a href="https://www.wikidot.com/user:info/stormbreath" style="color: red"]]stormbreath[[/a]]** for making the necessary CSS changes to the header.
+
+[[/div]]
+[[/div]]
+
+[[/div]]
+[[div class="panel-footer"]]
+  [!-- Placeholder --]
+[[/div]]
+[[/div]]
+
+[[include :scp-wiki:component:license-box
+|author=aismallard, SoullessSingularity, The Great Hippo, UraniumEmpire]]
+[[include :scp-wiki:component:license-box-end]]
