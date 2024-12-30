@@ -25,6 +25,10 @@ http://www.wikidot.com/account/messages#/new/4598089
 .page-stats {
     font-size: 80%;
 }
+
+.art {
+    text-align: center;
+}
 [[/module]]
 
 [[>]]
@@ -559,6 +563,37 @@ Translations: [http://scp-wiki-cn.wikidot.com/finding-asmodeus-hub CN], [http://
 [[/div]]
 
     
+[!-- Artwork --]
+
+**Photographic records:**
+
+[[tabview]]
+[[tab 🖼️]]
+Click through each tab to see each piece of artwork.
+[[/tab]]
+[[tab SCP-4322 by Rex_Atlas]]
+[[div class="art"]]
+[[image art-4322-alces.jpeg]]
+[[span class="art-label"]][[[SCP-4322]]] by [[*user Rex_Atlas]][[/span]]
+[[/div]]
+[[/tab]]
+
+[[tab SCP-4322 by MontagueETC]]
+[[div class="art"]]
+[[image art-4322-montagueetc.png]]
+[[span class="art-label"]][[[SCP-4322]]] by [[*user MontagueETC]][[/span]]
+[[/div]]
+[[/tab]]
+
+[[tab SCP-4838 by Aethris]]
+[[div class="art"]]
+[[image art-4838-aethris.png]]
+[[span class="art-label"]][[[SCP-4838]]] by [[*user Aethris]][[/span]]
+[[/div]]
+[[/tab]]
+
+[[/tabview]]
+
 **Other documents:**
 * [*http://kontainer.djkakt.us/aismallard In-progress reports]
 * [*http://scpdsandbox.wikidot.com/aismallard-misc Ancillary documents]
@@ -589,13 +624,13 @@ Translations: [http://scp-wiki-cn.wikidot.com/finding-asmodeus-hub CN], [http://
 > **License:** CC-BY-SA 3.0
 > **Source Link:** [[[Alces' Statue Garden]]]
 
-> **Filename:** art-4838-aethris.png
-> **Author:** [[*user Aethris]]
-> **License:** CC-BY-SA 3.0
-> **Source Link:** [https://i.imgur.com/Rk6SSxu.png Aethris]
-
 > **Filename:** art-4322-montagueetc.png
 > **Author:** [[*user MontagueETC]]
 > **License:** CC-BY-SA 3.0
 > **Source Link:** [https://imgur.com/a/rest-now-weary-dead-EglryCO MontagueETC]
+
+> **Filename:** art-4838-aethris.png
+> **Author:** [[*user Aethris]]
+> **License:** CC-BY-SA 3.0
+> **Source Link:** [https://i.imgur.com/Rk6SSxu.png Aethris]
 [[include component:license-box-end]]
