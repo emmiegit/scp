@@ -7,8 +7,7 @@ https://github.com/emmiegit/scp-author-page
 
 Any changes you make directly to this page will likely be overwritten.
 
-If you wish to correct a typo or other issue with the page, please send a PM
-to the author instead:
+If you wish to correct a typo or other issue with the page, please send a PM to the author instead:
 
 http://www.wikidot.com/account/messages#/new/4598089
 
@@ -16,7 +15,7 @@ http://www.wikidot.com/account/messages#/new/4598089
 
 
 [[include theme:black-highlighter-theme]]
-[[include component:pride-highlighter | inc-nb-alt=--] ]]
+[[include component:pride-highlighter | inc-tg-alt=--] ]]
 
 [[module CSS]]
 .page-header {
@@ -77,8 +76,8 @@ D-88111's identification was changed.
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
-Translations: [http://scp-wiki-cn.wikidot.com/scp-4339 CN], [http://lafundacionscp.wikidot.com/scp-4339 ES], [http://scp-jp.wikidot.com/scp-4339 JP], [http://scp-pt-br.wikidot.com/scp-4339 PT]
+Tags: {{%%tags%%}} {{%%_tags%%}}
+
 [[/div]]
 [[/module]]
 [[/div]]
@@ -95,8 +94,8 @@ For: [[[cliche-con-2019|Cliché-Con]]]
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
-Translations: [http://scp-wiki-cn.wikidot.com/scp-3597 CN], [http://scp-wiki-de.wikidot.com/scp-3597 DE], [http://lafundacionscp.wikidot.com/scp-3597 ES], [http://scp-jp.wikidot.com/scp-3597 JP], [http://scp-ru.wikidot.com/scp-3597 RU], [http://scp-ukrainian.wikidot.com/scp-3597 UA]
+Tags: {{%%tags%%}} {{%%_tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/scp-3597 CN], [http://scp-wiki-de.wikidot.com/scp-3597 DE], [http://lafundacionscp.wikidot.com/scp-3597 ES], [http://scp-jp.wikidot.com/scp-3597 JP], [http://scpfoundation.net/scp-3597 RU], [http://scp-ukrainian.wikidot.com/scp-3597 UA]
 [[/div]]
 [[/module]]
 [[/div]]
@@ -112,8 +111,8 @@ When the anomaly is activated, the individuals, including their clothing, attach
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
-Translations: [http://scp-wiki-cn.wikidot.com/scp-4447 CN]
+Tags: {{%%tags%%}} {{%%_tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/scp-4447 CN], [http://scp-jp.wikidot.com/scp-4447 JP]
 [[/div]]
 [[/module]]
 [[/div]]
@@ -129,7 +128,7 @@ Oak wood restraints painted cyan and reinforced with lead-telekill-iron-oxide al
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
+Tags: {{%%tags%%}} {{%%_tags%%}}
 Translations: [http://scp-wiki-cn.wikidot.com/scp-1294-j CN], [http://scp-jp.wikidot.com/scp-1294-j JP]
 [[/div]]
 [[/module]]
@@ -146,8 +145,8 @@ SCP-4322 is a radio transceiver, anomalously modified to transmit psionic waves 
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
-Translations: [http://scp-wiki-cn.wikidot.com/scp-4322 CN], [http://scp-cs.wikidot.com/scp-4322 CS], [http://lafundacionscp.wikidot.com/scp-4322 ES], [http://fondationscp.wikidot.com/scp-4322 FR], [http://scp-jp.wikidot.com/scp-4322 JP], [http://scp-pl.wikidot.com/scp-4322 PL], [http://scp-ru.wikidot.com/scp-4322 RU]
+Tags: {{%%tags%%}} {{%%_tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/scp-4322 CN], [http://scp-cs.wikidot.com/scp-4322 CS], [http://lafundacionscp.wikidot.com/scp-4322 ES], [http://fondationscp.wikidot.com/scp-4322 FR], [http://fondazionescp.wikidot.com/scp-4322 IT], [http://scp-jp.wikidot.com/scp-4322 JP], [http://scp-pl.wikidot.com/scp-4322 PL], [http://scp-pt-br.wikidot.com/scp-4322 PT], [http://scpfoundation.net/scp-4322 RU]
 [[/div]]
 [[/module]]
 [[/div]]
@@ -165,7 +164,7 @@ SCP-4406 is highly advanced surveillance software, which masks itself from the h
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
+Tags: {{%%tags%%}} {{%%_tags%%}}
 
 [[/div]]
 [[/module]]
@@ -182,8 +181,8 @@ I know this is a hard time for us, but I truly do love you. We are strong, we'll
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
-Translations: [http://scp-wiki-cn.wikidot.com/scp-4838 CN], [http://scp-jp.wikidot.com/scp-4838 JP], [http://scp-ru.wikidot.com/scp-4838 RU], [http://scp-th.wikidot.com/scp-4838 TH], [http://scp-vn.wikidot.com/scp-4838 VN]
+Tags: {{%%tags%%}} {{%%_tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/scp-4838 CN], [http://fondationscp.wikidot.com/scp-4838 FR], [http://scp-jp.wikidot.com/scp-4838 JP], [http://scpfoundation.net/scp-4838 RU], [http://scp-th.wikidot.com/scp-4838 TH], [http://scp-vn.wikidot.com/scp-4838 VN]
 [[/div]]
 [[/module]]
 [[/div]]
@@ -199,8 +198,8 @@ The only designation which may be applied to SCP-4853 is SCP-4853.
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
-Translations: [http://scp-wiki-cn.wikidot.com/scp-4853 CN], [http://lafundacionscp.wikidot.com/scp-4853 ES], [http://scp-jp.wikidot.com/scp-4853 JP], [http://scpko.wikidot.com/scp-4853 KO], [http://scp-pl.wikidot.com/scp-4853 PL], [http://scp-ru.wikidot.com/scp-4853 RU], [http://scp-vn.wikidot.com/scp-4853 VN], [http://scp-zh-tr.wikidot.com/scp-4853 ZH]
+Tags: {{%%tags%%}} {{%%_tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/scp-4853 CN], [http://lafundacionscp.wikidot.com/scp-4853 ES], [http://scp-jp.wikidot.com/scp-4853 JP], [http://scpko.wikidot.com/scp-4853 KO], [http://scp-pl.wikidot.com/scp-4853 PL], [http://scpfoundation.net/scp-4853 RU], [http://scp-vn.wikidot.com/scp-4853 VN], [http://scp-zh-tr.wikidot.com/scp-4853 ZH]
 [[/div]]
 [[/module]]
 [[/div]]
@@ -216,8 +215,8 @@ Specimens of SCP-4781 exhibit a cognitohazardous effect, causing misidentificati
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
-Translations: [http://scp-wiki-cn.wikidot.com/scp-4781 CN], [http://lafundacionscp.wikidot.com/scp-4781 ES], [http://scp-jp.wikidot.com/scp-4781 JP], [http://scpko.wikidot.com/scp-4781 KO], [http://scp-ru.wikidot.com/scp-4781 RU]
+Tags: {{%%tags%%}} {{%%_tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/scp-4781 CN], [http://lafundacionscp.wikidot.com/scp-4781 ES], [http://scp-jp.wikidot.com/scp-4781 JP], [http://scpko.wikidot.com/scp-4781 KO], [http://scpfoundation.net/scp-4781 RU]
 [[/div]]
 [[/module]]
 [[/div]]
@@ -234,8 +233,8 @@ During this time, surveillance satellites, Site-07 communications, intelligence 
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
-Translations: [http://scp-wiki-cn.wikidot.com/scp-5900 CN], [http://lafundacionscp.wikidot.com/scp-5900 ES]
+Tags: {{%%tags%%}} {{%%_tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/scp-5900 CN], [http://scp-cs.wikidot.com/scp-5900 CS], [http://lafundacionscp.wikidot.com/scp-5900 ES], [http://scp-jp.wikidot.com/scp-5900 JP], [http://scp-pl.wikidot.com/scp-5900 PL]
 [[/div]]
 [[/module]]
 [[/div]]
@@ -252,7 +251,7 @@ SCP-5633 is a large humanoid body located approximately 50m underground. The ins
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
+Tags: {{%%tags%%}} {{%%_tags%%}}
 Translations: [http://scp-wiki-cn.wikidot.com/scp-5633 CN]
 [[/div]]
 [[/module]]
@@ -269,8 +268,8 @@ Your session will expire after 118 seconds of inactivity.
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
-Translations: [http://scp-wiki-cn.wikidot.com/scp-5510 CN], [http://scp-cs.wikidot.com/scp-5510 CS], [http://lafundacionscp.wikidot.com/scp-5510 ES], [http://fondationscp.wikidot.com/scp-5510 FR], [http://scp-idn.wikidot.com/scp-5510 ID], [http://fondazionescp.wikidot.com/scp-5510 IT], [http://scp-jp.wikidot.com/scp-5510 JP], [http://scpko.wikidot.com/scp-5510 KO], [http://scp-pl.wikidot.com/scp-5510 PL], [http://scp-ru.wikidot.com/scp-5510 RU], [http://scp-th.wikidot.com/scp-5510 TH], [http://scp-ukrainian.wikidot.com/scp-5510 UA], [http://scp-vn.wikidot.com/scp-5510 VN], [http://scp-zh-tr.wikidot.com/scp-5510 ZH]
+Tags: {{%%tags%%}} {{%%_tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/scp-5510 CN], [http://scp-cs.wikidot.com/scp-5510 CS], [http://lafundacionscp.wikidot.com/scp-5510 ES], [http://fondationscp.wikidot.com/scp-5510 FR], [http://scp-id.wikidot.com/scp-5510 ID], [http://fondazionescp.wikidot.com/scp-5510 IT], [http://scp-jp.wikidot.com/scp-5510 JP], [http://scpko.wikidot.com/scp-5510 KO], [http://scp-pl.wikidot.com/scp-5510 PL], [http://scp-pt-br.wikidot.com/scp-5510 PT], [http://scpfoundation.net/scp-5510 RU], [http://scp-th.wikidot.com/scp-5510 TH], [http://scp-ukrainian.wikidot.com/scp-5510 UA], [http://scp-vn.wikidot.com/scp-5510 VN], [http://scp-zh-tr.wikidot.com/scp-5510 ZH]
 [[/div]]
 [[/module]]
 [[/div]]
@@ -287,8 +286,8 @@ SCP-5502 refers to an event on 2034/05/05 at around 04:10 UTC wherein all Fifthi
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
-Translations: [http://scp-wiki-cn.wikidot.com/scp-5502 CN], [http://lafundacionscp.wikidot.com/scp-5502 ES], [http://scp-jp.wikidot.com/scp-5502 JP]
+Tags: {{%%tags%%}} {{%%_tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/scp-5502 CN], [http://lafundacionscp.wikidot.com/scp-5502 ES], [http://fondazionescp.wikidot.com/scp-5502 IT], [http://scp-jp.wikidot.com/scp-5502 JP]
 [[/div]]
 [[/module]]
 [[/div]]
@@ -304,8 +303,8 @@ Consequently, any physical contact on an infected individual will permanently sc
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
-Translations: [http://lafundacionscp.wikidot.com/scp-5134 ES], [http://scp-jp.wikidot.com/scp-5134 JP], [http://scp-vn.wikidot.com/scp-5134 VN]
+Tags: {{%%tags%%}} {{%%_tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/scp-5134 CN], [http://lafundacionscp.wikidot.com/scp-5134 ES], [http://scp-jp.wikidot.com/scp-5134 JP], [http://scp-vn.wikidot.com/scp-5134 VN]
 [[/div]]
 [[/module]]
 [[/div]]
@@ -322,8 +321,8 @@ Originally SCP-5446 was held in a Site-19 locker before being requisitioned to p
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
-
+Tags: {{%%tags%%}} {{%%_tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/scp-5446 CN]
 [[/div]]
 [[/module]]
 [[/div]]
@@ -340,8 +339,8 @@ The object was discovered in an anomalous burial site within modern-day Mongolia
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
-Translations: [http://scp-wiki-cn.wikidot.com/scp-5871 CN], [http://fondazionescp.wikidot.com/scp-5871 IT], [http://scp-jp.wikidot.com/scp-5871 JP], [http://scp-pl.wikidot.com/scp-5871 PL], [http://scp-ru.wikidot.com/scp-5871 RU]
+Tags: {{%%tags%%}} {{%%_tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/scp-5871 CN], [http://fondazionescp.wikidot.com/scp-5871 IT], [http://scp-jp.wikidot.com/scp-5871 JP], [http://scp-pl.wikidot.com/scp-5871 PL], [http://scpfoundation.net/scp-5871 RU], [http://scp-zh-tr.wikidot.com/scp-5871 ZH]
 [[/div]]
 [[/module]]
 [[/div]]
@@ -359,8 +358,8 @@ Daevite control of nuclear weapons and ICBMs for delivery is a certainty.
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
-Translations: [http://scp-wiki-cn.wikidot.com/scp-6140 CN], [http://lafundacionscp.wikidot.com/scp-6140 ES], [http://fondationscp.wikidot.com/scp-6140 FR], [http://scp-jp.wikidot.com/scp-6140 JP], [http://scpko.wikidot.com/scp-6140 KO], [http://scp-pl.wikidot.com/scp-6140 PL], [http://scp-ru.wikidot.com/scp-6140 RU], [http://scp-vn.wikidot.com/scp-6140 VN]
+Tags: {{%%tags%%}} {{%%_tags%%}}
+
 [[/div]]
 [[/module]]
 [[/div]]
@@ -377,8 +376,8 @@ This system does not utilize traditional boundaries between organs and bodily ti
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
-Translations: [http://scp-wiki-cn.wikidot.com/scp-6115 CN], [http://fondazionescp.wikidot.com/scp-6115 IT], [http://scp-pt-br.wikidot.com/scp-6115 PT]
+Tags: {{%%tags%%}} {{%%_tags%%}}
+
 [[/div]]
 [[/module]]
 [[/div]]
@@ -396,8 +395,43 @@ SCP-7200 is an anomalous phenomenon causing the disappearances of non-military s
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
-Translations: [http://scp-wiki-cn.wikidot.com/scp-7200 CN], [http://lafundacionscp.wikidot.com/scp-7200 ES], [http://scp-jp.wikidot.com/scp-7200 JP], [http://scp-vn.wikidot.com/scp-7200 VN], [http://scp-zh-tr.wikidot.com/scp-7200 ZH]
+Tags: {{%%tags%%}} {{%%_tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/scp-7200 CN], [http://lafundacionscp.wikidot.com/scp-7200 ES], [http://scp-id.wikidot.com/scp-7200 ID], [http://scp-jp.wikidot.com/scp-7200 JP], [http://scpko.wikidot.com/scp-7200 KO], [http://scp-pl.wikidot.com/scp-7200 PL], [http://scp-vn.wikidot.com/scp-7200 VN], [http://scp-zh-tr.wikidot.com/scp-7200 ZH]
+[[/div]]
+[[/module]]
+[[/div]]
+[[div class="blockquote"]]
+[[module ListPages name="scp-7558" limit="1"]]
+[[span class="page-header"]]**[[[scp-7558|SCP-7558]]]**: Always Test Your Backups (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
+
+[[div class="blockquote"]]
+When activated, it opened a link to a stable pocket universe located at a fixed location (SCP-7558-A), with the goal that it would protect documents, records, and other materials against dimensional shifts and CK-Class Reality Restructuring Scenarios.
+[[/div]]
+----
+[[div class="page-stats"]]
+Written: {{%%created_at%%}}
+Last Edited: {{%%updated_at%%}} by %%updated_by%%
+Last Commented: {{%%commented_at%%}} by %%commented_by%%
+Tags: {{%%tags%%}} {{%%_tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/scp-7558 CN], [http://scp-wiki-de.wikidot.com/scp-7558 DE], [http://lafundacionscp.wikidot.com/scp-7558 ES], [http://scp-jp.wikidot.com/scp-7558 JP], [http://scpko.wikidot.com/scp-7558 KO], [http://scp-pl.wikidot.com/scp-7558 PL]
+[[/div]]
+[[/module]]
+[[/div]]
+[[div class="blockquote"]]
+[[module ListPages name="scp-8998" limit="1"]]
+[[span class="page-header"]]**[[[scp-8998|SCP-8998]]]**: Her Owner (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
+For: [[[scp8000contesthub|8k-Con]]]
+
+[[div class="blockquote"]]
+This is contrary to behavior of other documented apex-tier pluripotent entities, which often engage in behaviors such as accruing worshippers, creating paranormal artifacts, or intervening to achieve certain outcomes. Instead, its primary interest seems to be in the well-being of itself and SCP-8998-1.
+[[/div]]
+----
+[[div class="page-stats"]]
+Written: {{%%created_at%%}}
+Last Edited: {{%%updated_at%%}} by %%updated_by%%
+Last Commented: {{%%commented_at%%}} by %%commented_by%%
+Tags: {{%%tags%%}} {{%%_tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/scp-8998 CN], [http://scp-jp.wikidot.com/scp-8998 JP], [http://scpko.wikidot.com/scp-8998 KO], [http://scp-vn.wikidot.com/scp-8998 VN]
 [[/div]]
 [[/module]]
 [[/div]]
@@ -419,7 +453,7 @@ Fae shook her head. "I really don't know. But — at least we can make his last 
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
+Tags: {{%%tags%%}} {{%%_tags%%}}
 Translations: [http://scp-wiki-cn.wikidot.com/heart-of-the-beast CN], [http://scp-pt-br.wikidot.com/heart-of-the-beast PT]
 [[/div]]
 [[/module]]
@@ -437,7 +471,7 @@ Early on the morning after, residents gathered in shock before the ruins of our 
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
+Tags: {{%%tags%%}} {{%%_tags%%}}
 Translations: [http://scp-wiki-cn.wikidot.com/pumpkin-mystery CN], [http://scp-pt-br.wikidot.com/pumpkin-mystery PT]
 [[/div]]
 [[/module]]
@@ -445,6 +479,7 @@ Translations: [http://scp-wiki-cn.wikidot.com/pumpkin-mystery CN], [http://scp-p
 [[div class="blockquote"]]
 [[module ListPages name="stealing-something-else" limit="1"]]
 [[span class="page-header"]]**[[[stealing-something-else|Stealing Something Else]]]**: Stealing Something Else (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
+For:     [/forum/t-15388623/11th-annual-holiday-art-exchange 2022 Art Exchange]
 
 [[div class="blockquote"]]
 Foundation Area-529 is located underground on the island of Barentsøya, an officially-uninhabited island part of the Svalbard archipelago, which is considered to be part of Norway. It was created in 1958 to provide a sustainable containment solution for SCP-████-1 instances.
@@ -454,8 +489,26 @@ Foundation Area-529 is located underground on the island of Barentsøya, an offi
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
+Tags: {{%%tags%%}} {{%%_tags%%}}
+Translations: [http://scp-vn.wikidot.com/stealing-something-else VN]
+[[/div]]
+[[/module]]
+[[/div]]
+[[div class="blockquote"]]
+[[module ListPages name="continuous-integration" limit="1"]]
+[[span class="page-header"]]**[[[continuous-integration|Continuous Integration]]]**: Continuous Integration (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
+For:     [/forum/t-16456604/12th-annual-art-exchange 2023 Art Exchange]
 
+[[div class="blockquote"]]
+"You can't just rerun it until it passes. This isn't a web server, this is core infrastructure that powers the life and livelihood of two billion humans."
+[[/div]]
+----
+[[div class="page-stats"]]
+Written: {{%%created_at%%}}
+Last Edited: {{%%updated_at%%}} by %%updated_by%%
+Last Commented: {{%%commented_at%%}} by %%commented_by%%
+Tags: {{%%tags%%}} {{%%_tags%%}}
+Translations: [http://scp-cs.wikidot.com/continuous-integration CS]
 [[/div]]
 [[/module]]
 [[/div]]
@@ -479,7 +532,7 @@ Once delivered to a host, WHISPER is capable of inspecting, modifying, and empty
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
+Tags: {{%%tags%%}} {{%%_tags%%}}
 Translations: [http://scp-wiki-cn.wikidot.com/uiu-file-2017-102 CN]
 [[/div]]
 [[/module]]
@@ -499,8 +552,8 @@ For: [[[canon-renaissance-contest|Canon Renaissance Contest]]]
 Written: {{%%created_at%%}}
 Last Edited: {{%%updated_at%%}} by %%updated_by%%
 Last Commented: {{%%commented_at%%}} by %%commented_by%%
-Tags: {{%%tags%%}}
-Translations: [http://scp-wiki-cn.wikidot.com/finding-asmodeus-hub CN], [http://scpko.wikidot.com/finding-asmodeus-hub KO], [http://scp-pt-br.wikidot.com/finding-asmodeus-hub PT], [http://scp-ru.wikidot.com/finding-asmodeus-hub RU]
+Tags: {{%%tags%%}} {{%%_tags%%}}
+Translations: [http://scp-wiki-cn.wikidot.com/finding-asmodeus-hub CN], [http://fondazionescp.wikidot.com/finding-asmodeus-hub IT], [http://scpko.wikidot.com/finding-asmodeus-hub KO], [http://scp-pt-br.wikidot.com/finding-asmodeus-hub PT], [http://scpfoundation.net/finding-asmodeus-hub RU]
 [[/div]]
 [[/module]]
 [[/div]]
@@ -526,7 +579,6 @@ Translations: [http://scp-wiki-cn.wikidot.com/finding-asmodeus-hub CN], [http://
 @@@@
 
 [[include component:license-box]]
-=====
 > **Filename:** mallard.jpeg
 > **Author:** [https://commons.wikimedia.org/wiki/User:Bengt_Nyman Bengt Nyman]
 > **License:** CC-BY-SA 4.0
@@ -537,9 +589,13 @@ Translations: [http://scp-wiki-cn.wikidot.com/finding-asmodeus-hub CN], [http://
 > **License:** CC-BY-SA 3.0
 > **Source Link:** [[[Alces' Statue Garden]]]
 
-> **Filename:** Rk6SSxu.png
+> **Filename:** art-4838-aethris.png
 > **Author:** [[*user Aethris]]
 > **License:** CC-BY-SA 3.0
 > **Source Link:** [https://i.imgur.com/Rk6SSxu.png Aethris]
-=====
+
+> **Filename:** art-4322-montagueetc.png
+> **Author:** [[*user MontagueETC]]
+> **License:** CC-BY-SA 3.0
+> **Source Link:** [https://imgur.com/a/rest-now-weary-dead-EglryCO MontagueETC]
 [[include component:license-box-end]]
