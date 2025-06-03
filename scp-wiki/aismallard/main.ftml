@@ -456,6 +456,23 @@ Translations: [http://scp-wiki-cn.wikidot.com/scp-8178 CN], [http://scp-jp.wikid
 [[/div]]
 [[/module]]
 [[/div]]
+[[div class="blockquote"]]
+[[module ListPages name="scp-8125-j" limit="1"]]
+[[span class="page-header"]]**[[[scp-8125-j|SCP-8125-J]]]**: Generally Pointless Thing (##green|+%%rating%%##) (%%comments%% 💬)[[/span]]
+
+[[div class="blockquote"]]
+Apologies, you're right! Based on the clarifications you provided, "Keter" would suit this anomaly much better.
+[[/div]]
+----
+[[div class="page-stats"]]
+Written: {{%%created_at%%}}
+Last Edited: {{%%updated_at%%}} by %%updated_by%%
+Last Commented: {{%%commented_at%%}} by %%commented_by%%
+Tags: {{%%tags%%}} {{%%_tags%%}}
+
+[[/div]]
+[[/module]]
+[[/div]]
 
 [!-- Tales --]
 
