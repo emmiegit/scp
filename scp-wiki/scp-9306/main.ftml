@@ -1,0 +1,83 @@
+[[include theme:black-highlighter-theme]]
+
+[[include info:start]]
+**SCP-9306:** A New York
+**Author:** [[*user aismallard]] ([[[aismallard|Author Page]]])
+
+**Thanks to:**
+* [[*user uncle nicolini]]
+
+**And to those who looked at previous versions of this draft:**
+* [[*user stormbreath]]
+* [[*user rumetzen]]
+* [[*user Croquembouche]]
+* [[*user A Random Day]]
+* wctaiwan
+[[include info:end]]
+
+[[include component:image-block
+    name=nyc.jpg |
+    caption=Aerial view of SCP-9306.
+]]
+
+**Item #:** SCP-9306
+
+**Object Class:** Keter
+
+**Special Containment Procedures:** Site-28 is currently being downsized to 0.8% of its extant size. All surplus personnel have been scheduled for transfer to other facilities or layoffs, and excess portions of the site are being decommissioned.
+
+Following this, the ENNUI protocol will be activated, removing all human knowledge of SCP-9306 and reinstituting Masquerade protocol.
+
+**Description:** SCP-9306 is Public Site-28, a large-scale Foundation facility occupying a significant portion of Manhattan Island within New York City. Both the site and the Foundation's existence are well-known, and are integral to the history of the area, as it is the largest employer in the city with 1.1 million personnel.[[footnote]]The next largest employer is the city itself, with about 150 thousand personnel.[[/footnote]]
+
+The facility spans the entire width of Manhattan between 23rd Street and 114th Street (with several exclaves elsewhere in the city). There are relatively few anomalies stored at Site-28: instead, most activity at the site is research, development, logistics, or administration.
+
+Due to its immense size and the impracticality of maintaining public unawareness of Foundation activities in a densely-populated area, in 1983 the Overseer Council voted to suspend the Masquerade protocol. The Global Occult Coalition did not follow suit, which has subsequently resulted in diplomatic tensions between the two organizations.
+
+A few areas of note within SCP-9306 are listed below:
+
+||~ Name ||~ Address ||~ Description ||
+|| Hudson Yards || West 43rd Street, near the Hudson River || A shipyard used to maintain and deploy sea vessels. Significant Foundation Navy presence. ||
+|| Gracie Mansion || 181 East End Ave || Serves as the official residence of the Director of Site-28. ||
+|| Human Containment || Riker's Island || Detainment of D-class personnel and persons of interest not considered to be SCP objects. Civilian prisoners may also be kept here, though they are more often transferred into Foundation custody as part of New York's work release program. ||
+|| Task Force Regional Command || [wikipedia:1_Police_Plaza 1 Containment Plaza] || This complex serves as the general headquarters for Mobile Task Force activity in North America and Western Europe. ||
+|| Amnestics Contraband Service || 120 West 82nd Street || A subsection of Site-28 Security which investigates illicit use of amnestics. Theft and embezzlement involving amnestics have become major problems in the facility, with an active civilian black market. Examples of illegal use includes application during commission of crimes or self-administration as a narcotic drug. ||
+|| Surveillance Center || [wikipedia:33_Thomas_Street 33 Thomas Street] || Primary monitoring center for the US east coast. Run jointly by the Department of Applied Influence and the RAISA Surveillance Division. ||
+|| Central Conservatory || 59th to 110th Street || A large rectangular park which is used to contain low-risk biological anomalies. A region with only mundane flora and fauna has been allocated for recreation, which is open to civilians. ||
+
+Further information can be found in Site-28's facility dossier, or its Wikipedia article.
+
+**Discovery:** Early in the morning on 2029/01/01, a large number of memetic breach reports were filed, primarily from Site-28 personnel. The Containment Director on duty established a working group to efficiently process the large volume of reports. After the initial investigation, it was determined that the vast majority of reports concerned a single incident where memetic material was released without authorization.[[footnote]]Unusually, no casualties or non-Foundation witnesses were identified.[[/footnote]]
+
+Due to the severity of the incident, the matter was escalated to Overwatch Command.
+
+The investigation eventually widened into a full probe of Site-28's management, structure, and policies, and involved the cooperation of 39 Foundation Departments, tens of thousands of interviews, and millions of documents. A final report was delivered to the O5 Council, who voted to designate SCP-9306 and adopt its current containment procedures.
+
+While the contents of this report are classified, below is a Level-1 summary of some of the irregularities found during the investigation:
+
+* The size, headcount, and recruitment policies of Site-28 are significantly deviant from typical Foundation practices.
+ * __Supporting Evidence:__ Site-28 has ~317,000 full-time personnel and ~782,000 part-time or reserve personnel, which is more than 237× larger than the personnel count of the second largest facility (Site-19).
+ * __Supporting Evidence:__ Site-28 has at least 22,000 minors on payroll, despite Foundation regulations restricting recruitment of humans below age 20 to exceptional circumstances. There appeared to be no obvious reason that these individuals were recruited aside from one or both parents being Foundation staff.
+* Site-28 exhibits a high degree of departmental centralization, far higher than permitted.
+ * __Supporting Evidence:__ Site-28 hosts the headquarters of 18 departments and 61 regional command offices. With the exception of Site-██, operational resilience policy limits the total number of administrative centers permitted at one facility.
+ * __Supporting Evidence:__ Despite concealment of anomalies being a core component of the Foundation's original mission, this was discarded solely to accomodate the high concentration of personnel in New York City.
+* The annual Foundation-run New Year's celebration at Times Square, well-known throughout the world and open to the public, had no known cases of non-Foundation civilians watching the event (whether in-person or remotely) at the time the clock struck midnight.
+ * __Supporting Evidence:__ The live stream of the event was freely available on the internet.
+ * __Supporting Evidence:__ In a typical year, approximately one third of participants are civilians.
+* A security review of found that 99.2% of Site-28 personnel hold [[[scp-2140|Level 2/2140 security clearance]]].
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-9305]]] | SCP-9306 | [[[SCP-9307]]] >>
+[[/=]]
+[[/div]]
+
+[[include component:license-box]]
+> **Filename:** nyc.jpg
+> **Name:** New_York_City_by_Sentinel-2
+> **Author:** [[*user aismallard]]
+> **License:** CC-BY-SA 3.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:New_York_City_by_Sentinel-2.jpg Wikimedia Commons]
+[[include component:license-box-end]]
