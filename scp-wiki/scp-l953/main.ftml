@@ -1,0 +1,66 @@
+[[include theme:black-highlighter-theme]]
+
+[[include info:start]]
+**SCP-L953:** Secure, Contain, __//Protect//__
+**Author:** [[*user aismallard]] ([[[aismallard|Author Page]]])
+
+Thanks to [[*user Kufat]] and [[*user Trintavon]] for critique, and in particular the assistance of [[*user Dysadron]].
+[[include info:end]]
+
+[[image https://scp-wiki.wdfiles.com/local--files/scp-l953/thumbnail.webp class="crom-thumbnail" style="display: none"]]
+
+**Item #:** SCP-L953
+
+**Object Class:** Keter
+
+**Special Containment Procedures:** Human interaction with SCP-L953 is strictly limited. Personnel wishing to enter its chamber must submit to a full psychological evaluation and receive approval from the SCP-L953 Containment Committee. Prior to any planned contact with the anomaly, personnel must submit to decontamination and don Class-VIII biohazard suits.
+
+SCP-L953 instances are maintained in a 220,000 m^^3^^ containment chamber at Site-97. This chamber is hermetically sealed, with alternating layers of lead (8 cm) and ceramic (5 cm) to inhibit psychic radiation. A Class-XVII biosphere system has been installed inside the chamber, providing artificial sunlight, precipitation, and air (heavily scrubbed to remove pollutants). --Additional SCP-L953 populations are kept in Bio Area-12 and Site-403.--
+
+The containment chamber is populated with fauna and flora per Document 1037-Kappa. Whenever possible, repopulation of insects, trimming and replanting, and other maintenance tasks are to be performed via remotely-controlled drone.
+
+Should an instance of SCP-L953 escape, the site will enter lockdown and the recontainment team is to carry out Procedure 207-Quogue. All other human personnel must immediately proceed to Insulated Influence Chambers (see Site-97 schematics for further details).
+
+Current research efforts are directed towards:
+* Improving psychic filtration in the SCP-L953 containment chamber.
+* Understanding and lessening health risks from human/SCP-L953 contact.
+* Developing paramedicinal procedure for mental recovery after contact incidents.
+* Substantially growing and expanding the SCP-L953 population.
+
+**Description:** SCP-L953 refers to the anomalous species //Locustella vitella//, a type of grasshopper warbler, a small bird with telepathic abilities. Due to the low complexity level of insect brains, SCP-L953 instances cannot telepathically interpret animal mental states, and instead only use their anomalous abilities to locate grubs to eat.
+
+[[collapsible show="▸ Open Attached Image" hide="▾ Close Attached Image"]]
+[[include component:image-block
+| name=https://scp-wiki.wdfiles.com/local--files/scp-l953/warbler.webp
+| width=280px
+| caption=SCP-L953 in captivity.
+]]
+[[/collapsible]]
+
+SCP-L953 poses no threat to humans. However, for unclear reasons, increasing computerization and adoption of the internet among human populations have created a psychic environment that is deeply toxic to SCP-L953. Telepathic shielding and human contact procedures were effective at preserving its population until the mainstream adoption of internet-enabled consumer electronics, which is correlated with a mass die-off.
+
+SCP-L953 is extinct in the wild. At present, there are --34,607-- (1980) --12,120-- (1990) --4,066-- (2000) --817-- (2010) 54 instances (2020) in containment. 
+
+**Addendum:** The SCP-L953 Containment Committee has confirmed that the anomaly is now Neutralized. This file is slated to be rewritten.
+
+[[footnoteblock]]
+
+[[div class="footer-wikiwalk-nav"]]
+[[=]]
+<< [[[SCP-L952]]] | SCP-L953 | [[[SCP-L954]]] >>
+[[/=]]
+[[/div]]
+
+[[include component:license-box]]
+> **Filename:** thumbnail.webp
+> **Name:** Dominion Bank Vault
+> **Author:** Dominion Bank
+> **License:** Public Domain
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Dominion_Bank_Vault.jpg Wikimedia Commons]
+
+> **Filename:** warbler.webp
+> **Name:** Locustella lanceolata from iNaturalist photo 103037259
+> **Author:** dhfischer
+> **License:** CC-BY-SA 4.0
+> **Source Link:** [https://commons.wikimedia.org/wiki/File:Locustella_lanceolata_from_iNaturalist_photo_103037259.jpg Wikimedia Commons]
+[[include component:license-box-end]]
