@@ -26,7 +26,7 @@ There's monitoring and filtering on the housing unit's internet service, of cour
 
 Okay I feel like I have to elaborate on the protocol point. I guess, since it came up at work today. Because the Foundation is a //huge// stickler for protocol.
 
-I remember back when I was a fresh-faced researcher at one of those beginner labs. You know, something like Site-710 or the Safe-class wing of Site-19, where the entire purpose is to take new guys and expose them to anomalies in circumstances where they can learn and are unlikely to fuck things up. We were doing containment practice with [[[log-of-anomalous-items|AO-04659-93-273]]], this harmless but annoying giant insect that shoots out mucus bubbles everywhere. Basically we're given it in a box, as if it were freshly captured from the field, and now our job is to figure out how to contain it. Eventually we figured out cold calmed it down, and then we devised a chamber cooled with liquid nitrogen to keep it perfectly in stasis. Obviously our design had some flaws and, like everyone else's, was discarded after the exercise was finished, but it was a fun time honestly.
+I remember back when I was a fresh-faced researcher at one of those beginner labs. You know, something like Site-710 or the Safe-class wing of Site-19, where the entire purpose is to take new guys and expose them to anomalies in circumstances where they can learn and are unlikely to fuck things up. We were doing containment practice with [[[log-of-anomalous-items-vol-vii#site-710-training | AO-04659-93-273]]], this harmless but annoying giant insect that shoots out mucus bubbles everywhere. Basically we're given it in a box, as if it were freshly captured from the field, and now our job is to figure out how to contain it. Eventually we figured out cold calmed it down, and then we devised a chamber cooled with liquid nitrogen to keep it perfectly in stasis. Obviously our design had some flaws and, like everyone else's, was discarded after the exercise was finished, but it was a fun time honestly.
 
 Oh, right. So when they brought out the liquid nitrogen, the only guys handling them were the material ops guys. You need some kind of licensing or training to handle hazardous materials at the Foundation (at least outside of emergency situations) and god, these guys were serious. They set up a perimeter, had oxygen level monitoring, with an escape chamber to get into if levels got critical, configured the environmental controls to keep the area well-ventilated, and wore full protective suits.
 
@@ -116,7 +116,7 @@ I hate my work.
 
 Well. The sprint is over. Ha.
 
-For what it's worth, I finished out all of my work. I checked in, had a coffee, and and didn't do much except close out a bunch of old Jiras I had forgotten to mark done. Then shot the shit with Jamie.
+For what it's worth, I finished out all of my work. I checked in, had a coffee, and didn't do much except close out a bunch of old Jiras I had forgotten to mark done. Then shot the shit with Jamie.
 
 Not that all my work did anything. I was just one small ant in a large machine. I worked hard, did my part, came up with clever solutions, kept stuff running, and it was ultimately entirely fruitless.
 
@@ -131,3 +131,6 @@ This always happens when I'm bored. Heh, when I have idle hands -- something abo
 Yeah. There isn't much to do anymore. Class-As got evacuated to a parallel universe weeks ago. Some people here are still working, desperately trying to pull a rabbit out of their hat. Some are listless. Most have gone home to their families. Security isn't really stopping anyone, even though I doubt anyone has leave to do so.
 
 As for me? I'm going to take another walk. And enjoy the [[[scp-6999|music]]].
+
+[[include component:license-box |author=aismallard]]
+[[include component:license-box-end]]
